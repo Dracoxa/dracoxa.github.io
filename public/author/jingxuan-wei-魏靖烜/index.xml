@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jingxuan Wei 魏靖烜 | 多模态认知智能</title>
+    <link>http://localhost:1313/author/jingxuan-wei-%E9%AD%8F%E9%9D%96%E7%83%9C/</link>
+      <atom:link href="http://localhost:1313/author/jingxuan-wei-%E9%AD%8F%E9%9D%96%E7%83%9C/index.xml" rel="self" type="application/rss+xml" />
+    <description>Jingxuan Wei 魏靖烜</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
+    <image>
+      <url>http://localhost:1313/media/icon_hu_7613a4a452ac7087.png</url>
+      <title>Jingxuan Wei 魏靖烜</title>
+      <link>http://localhost:1313/author/jingxuan-wei-%E9%AD%8F%E9%9D%96%E7%83%9C/</link>
+    </image>
+    
+  </channel>
+</rss>

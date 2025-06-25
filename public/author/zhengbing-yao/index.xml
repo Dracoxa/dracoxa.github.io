@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Zhengbing Yao | 多模态认知智能实验室</title>
+    <link>http://localhost:1313/author/zhengbing-yao/</link>
+      <atom:link href="http://localhost:1313/author/zhengbing-yao/index.xml" rel="self" type="application/rss+xml" />
+    <description>Zhengbing Yao</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
+    <image>
+      <url>http://localhost:1313/author/zhengbing-yao/avatar_hu_74f1f0e4a9ca69dd.png</url>
+      <title>Zhengbing Yao</title>
+      <link>http://localhost:1313/author/zhengbing-yao/</link>
+    </image>
+    
+  </channel>
+</rss>

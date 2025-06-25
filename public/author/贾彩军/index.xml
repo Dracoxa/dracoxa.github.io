@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>贾彩军 | 多模态认知智能实验室</title>
+    <link>http://localhost:1313/author/%E8%B4%BE%E5%BD%A9%E5%86%9B/</link>
+      <atom:link href="http://localhost:1313/author/%E8%B4%BE%E5%BD%A9%E5%86%9B/index.xml" rel="self" type="application/rss+xml" />
+    <description>贾彩军</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
+    <image>
+      <url>http://localhost:1313/media/logo_hu_81c9b54ff9ed5c81.png</url>
+      <title>贾彩军</title>
+      <link>http://localhost:1313/author/%E8%B4%BE%E5%BD%A9%E5%86%9B/</link>
+    </image>
+    
+    <item>
+      <title>Caijun Jia</title>
+      <link>http://localhost:1313/author/caijun-jia/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/author/caijun-jia/</guid>
+      <description>&lt;p&gt;贾彩军 is a PhD candidate with research interests in multimodal reasoning, machine translation, and AI for Science. His work focuses on advancing the integration of diverse data modalities and applying artificial intelligence to scientific discovery.&lt;/p&gt;
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

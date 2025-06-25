@@ -1,48 +1,12 @@
-# [Hugo Research Group Theme](https://github.com/wowchemy/starter-hugo-research-group)
-
-[![Screenshot](preview.png)](https://hugoblox.com/hugo-themes/)
-
-The **Research Group Template** empowers your research group to easily create a beautiful website with a stunning homepage, news, academic publications, events, team profiles, and a contact form.
-
-️**Trusted by 250,000+ researchers, educators, and students.** Highly customizable via the integrated **no-code, widget-based Wowchemy page builder**, making every site truly personalized ⭐⭐⭐⭐⭐
-
-[![Get Started](https://img.shields.io/badge/-Get%20started-ff4655?style=for-the-badge)](https://hugoblox.com/hugo-themes/)
-[![Discord](https://img.shields.io/discord/722225264733716590?style=for-the-badge)](https://discord.com/channels/722225264733716590/742892432458252370/742895548159492138)  
-[![Twitter Follow](https://img.shields.io/twitter/follow/GetResearchDev?label=Follow%20on%20Twitter)](https://twitter.com/wowchemy)
-
-Easily write technical content with plain text Markdown, LaTeX math, diagrams, RMarkdown, or Jupyter, and import publications from BibTeX.
-
-[Check out the latest demo](https://research-group.netlify.app/) of what you'll get in less than 60 seconds, or [view the showcase](https://hugoblox.com/creators/).
-
-The integrated [**Wowchemy**](https://hugoblox.com) website builder and CMS makes it easy to create a beautiful website for free. Edit your site in the CMS (or your favorite editor), generate it with [Hugo](https://github.com/gohugoio/hugo), and deploy with GitHub or Netlify. Customize anything on your site with widgets, light/dark themes, and language packs.
-
-- 👉 [**Get Started**](https://hugoblox.com/hugo-themes/)
-- 📚 [View the **documentation**](https://docs.hugoblox.com/)
-- 💬 [Chat with the **Wowchemy research community**](https://discord.gg/z8wNYzb) or [**Hugo community**](https://discourse.gohugo.io)
-- ⬇️ **Automatically import citations from BibTeX** with the [Hugo Academic CLI](https://github.com/GetRD/academic-file-converter)
-- 🐦 Share your new site with the community: [@wowchemy](https://twitter.com/wowchemy) [@GeorgeCushen](https://twitter.com/GeorgeCushen) [#MadeWithWowchemy](https://twitter.com/search?q=%23MadeWithWowchemy&src=typed_query)
-- 🗳 [Take the survey and help us improve #OpenSource](https://forms.gle/NioD9VhUg7PNmdCAA)
-- 🚀 [Contribute improvements](https://github.com/HugoBlox/hugo-blox-builder/blob/main/CONTRIBUTING.md) or [suggest improvements](https://github.com/HugoBlox/hugo-blox-builder/issues)
-- ⬆️ **Updating?** View the [Update Guide](https://docs.hugoblox.com/hugo-tutorials/update/) and [Release Notes](https://github.com/HugoBlox/hugo-blox-builder/releases)
-
-## We ask you, humbly, to support this open source movement
-
-Today we ask you to defend the open source independence of the Wowchemy website builder and themes 🐧
-
-We're an open source movement that depends on your support to stay online and thriving, but 99.9% of our creators don't give; they simply look the other way.
-
-### [❤️ Click here to become a GitHub Sponsor, unlocking awesome perks such as _exclusive academic templates and widgets_](https://github.com/sponsors/gcushen)
-
-## Demo credits
-
-Please replace the demo images with your own.
-
-- [Female scientist](https://unsplash.com/photos/uVnRa6mOLOM)
-- [2 Coders](https://unsplash.com/photos/kwzWjTnDPLk)
-- [Cafe](https://unsplash.com/photos/RnDGGnMEOao)
-- Blog posts
-  - https://unsplash.com/photos/AndE50aaHn4
-  - https://unsplash.com/photos/OYzbqk2y26c
-- Avatars
-  - https://unsplash.com/photos/5yENNRbbat4
-  - https://unsplash.com/photos/WNoLnJo7tS8
+| **模块**       | **内容描述**                        | **需要的数据/信息**                                                   |
+| ------------ | ------------------------------- | -------------------------------------------------------------- |
+| **首页/概览**    | 实验室的基本信息展示，展示研究领域、目标、愿景。        | 1. 实验室名称、标志、口号/目标<br>2. 简要介绍实验室的成立背景、使命与愿景<br>3. 最新动态/新闻       |
+| **研究方向**     | 介绍实验室的主要研究方向和领域。                | 1. 研究领域名称<br>2. 每个领域的简要描述<br>3. 研究方向的图示或图标                     |
+| **成员介绍**     | 展示实验室的成员，包括教授、研究员、博士后、硕士生、实习生等。 | 1. 成员姓名<br>2. 职位（如教授、研究员等）<br>3. 研究方向或工作领域<br>4. 照片<br>5. 简要简介 |
+| **项目与合作**    | 列出实验室当前进行的研究项目、合作项目、以及国内外的合作单位。 | 1. 项目名称<br>2. 项目简要描述<br>3. 合作伙伴或单位<br>4. 项目进展/成果               |
+| **发表论文与成果**  | 显示实验室的学术成果，包括论文、专利、技术报告等。       | 1. 论文标题<br>2. 发表期刊或会议<br>3. 作者信息<br>4. 链接或DOI<br>5. 专利/报告等成果摘要 |
+| **实验室设施与资源** | 展示实验室的实验设备、硬件资源等设施。             | 1. 设备名称<br>2. 设备用途<br>3. 图片或视频展示设施<br>4. 设备数量及配置               |
+| **学术活动与讲座**  | 介绍实验室组织的讲座、研讨会、学术会议等活动。         | 1. 活动名称<br>2. 日期和地点<br>3. 主讲人<br>4. 活动概况<br>5. 报名链接或回顾视频       |
+| **新闻与动态**    | 列出实验室的最新新闻、活动通知、学术活动等。          | 1. 新闻标题<br>2. 新闻发布日期<br>3. 新闻内容摘要<br>4. 新闻链接或图片                |
+| **联系方式**     | 提供实验室的联系信息，包括邮箱、电话、办公地址等。       | 1. 联系邮箱<br>2. 电话<br>3. 办公地址<br>4. 社交媒体链接<br>5. 地图或二维码          |
+| **成员招募**     | 向外界公布招聘信息，吸引潜在的成员加入。            | 1. 招聘职位<br>2. 招聘要求<br>3. 招聘条件<br>4. 报名方式和联系方式                  |

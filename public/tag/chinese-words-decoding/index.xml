@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Chinese Words Decoding | 多模态认知智能实验室</title>
+    <link>http://localhost:1313/tag/chinese-words-decoding/</link>
+      <atom:link href="http://localhost:1313/tag/chinese-words-decoding/index.xml" rel="self" type="application/rss+xml" />
+    <description>Chinese Words Decoding</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 23 Jun 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/logo_hu_81c9b54ff9ed5c81.png</url>
+      <title>Chinese Words Decoding</title>
+      <link>http://localhost:1313/tag/chinese-words-decoding/</link>
+    </image>
+    
+    <item>
+      <title>EEGTCW: Electroencephalogram-based Chinese Words Decoding</title>
+      <link>http://localhost:1313/publication/eegtcw-copy/</link>
+      <pubDate>Mon, 23 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/eegtcw-copy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>EEGTCW: Electroencephalogram-based Chinese Words Decoding</title>
+      <link>http://localhost:1313/publication/eegtcw/</link>
+      <pubDate>Mon, 23 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/eegtcw/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
