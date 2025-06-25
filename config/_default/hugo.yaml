@@ -3,7 +3,8 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: Wowchemy Research Group # Website name
+title: 多模态认知智能实验室  #Website name
+description: "多模态认知智能实验室是一个专注于多模态学习和认知智能研究的实验室，致力于推动人工智能领域的前沿研究和应用。" # Website description
 baseURL: 'https://example.com/' # Website URL
 
 ############################

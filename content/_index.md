@@ -1,6 +1,6 @@
 ---
 # Leave the homepage title empty to use the site title
-title:
+title:  AI For Multimodal Cognitive Intelligence Lab
 date: 2022-10-24
 type: landing
 
@@ -8,15 +8,23 @@ sections:
   - block: hero
     content:
       title: |
-        Wowchemy
-        Research Group
-      image:
-        filename: welcome.jpg
+        <span style="font-size: ; color: #ffffff;font-family: 'Lora', serif">AI For Multimodal Cognitive Intelligence Lab</span>
+      text: |
+      text: |
       text: |
         <br>
-        
-        The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
-  
+        <span style="font-size: 0.8em ;color:rgb(255, 255, 255); font-family: 'Lora', serif">We focus on knowledge engineering, natural language processing, multimodal analysis, sentiment analysis, machine translation, and brain-inspired intelligence, driving innovative research and cultivating talent with strong theoretical and practical skills.</span><br>
+    design:
+      background:
+        image:
+          filename: welcome.jpg
+          filters:
+            brightness: 0.7  # 优化亮度以确保文字可读
+          parallax: false
+          position: center
+          size: cover
+          text_color_light: true
+
   - block: collection
     content:
       title: Latest News
@@ -35,7 +43,7 @@ sections:
     design:
       view: card
       columns: '1'
-  
+
   - block: markdown
     content:
       title:
@@ -44,7 +52,7 @@ sections:
     design:
       columns: '1'
       background:
-        image: 
+        image:
           filename: coders.jpg
           filters:
             brightness: 1
