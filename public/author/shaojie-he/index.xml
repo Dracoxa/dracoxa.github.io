@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Shaojie He | 多模态认知智能实验室</title>
+    <link>https://example.com/author/shaojie-he/</link>
+      <atom:link href="https://example.com/author/shaojie-he/index.xml" rel="self" type="application/rss+xml" />
+    <description>Shaojie He</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 14 Apr 2023 15:57:35 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/logo_hu_81c9b54ff9ed5c81.png</url>
+      <title>Shaojie He</title>
+      <link>https://example.com/author/shaojie-he/</link>
+    </image>
+    
+    <item>
+      <title>Construction of Sensitive Image Datasets Based on Generative Methods</title>
+      <link>https://example.com/publication/a-new-multimodal-video-detection-model-and-dataset/</link>
+      <pubDate>Fri, 14 Apr 2023 15:57:35 +0000</pubDate>
+      <guid>https://example.com/publication/a-new-multimodal-video-detection-model-and-dataset/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MMES: Improved Mayfly Algorithm Based on Electrostatic Optimization Algorithm</title>
+      <link>https://example.com/publication/mmes-improved-mayfly-algorithm-based-on-electrostatic-optimization-algorithm/</link>
+      <pubDate>Fri, 09 Dec 2022 15:57:35 +0000</pubDate>
+      <guid>https://example.com/publication/mmes-improved-mayfly-algorithm-based-on-electrostatic-optimization-algorithm/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

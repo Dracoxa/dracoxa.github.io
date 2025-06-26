@@ -5,12 +5,20 @@
     <link>https://example.com/author/zhengbing-yao/</link>
       <atom:link href="https://example.com/author/zhengbing-yao/index.xml" rel="self" type="application/rss+xml" />
     <description>Zhengbing Yao</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 06 Oct 2024 15:57:35 +0000</lastBuildDate>
     <image>
       <url>https://example.com/author/zhengbing-yao/avatar_hu_74f1f0e4a9ca69dd.png</url>
       <title>Zhengbing Yao</title>
       <link>https://example.com/author/zhengbing-yao/</link>
     </image>
+    
+    <item>
+      <title>Faster and More Efficient Subject Image Generation for Text-to-Image Diffusion Models</title>
+      <link>https://example.com/publication/faster-and-more-efficient-subject-image-generation-for-text-to-image-diffusion-models/</link>
+      <pubDate>Sun, 06 Oct 2024 15:57:35 +0000</pubDate>
+      <guid>https://example.com/publication/faster-and-more-efficient-subject-image-generation-for-text-to-image-diffusion-models/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
