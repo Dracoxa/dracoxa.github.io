@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>姚征兵 | 多模态认知智能实验室</title>
-    <link>https://example.com/author/%E5%A7%9A%E5%BE%81%E5%85%B5/</link>
-      <atom:link href="https://example.com/author/%E5%A7%9A%E5%BE%81%E5%85%B5/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/author/%E5%A7%9A%E5%BE%81%E5%85%B5/</link>
+      <atom:link href="http://localhost:1313/author/%E5%A7%9A%E5%BE%81%E5%85%B5/index.xml" rel="self" type="application/rss+xml" />
     <description>姚征兵</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
     <image>
-      <url>https://example.com/media/logo_hu_81c9b54ff9ed5c81.png</url>
+      <url>http://localhost:1313/media/logo_hu_81c9b54ff9ed5c81.png</url>
       <title>姚征兵</title>
-      <link>https://example.com/author/%E5%A7%9A%E5%BE%81%E5%85%B5/</link>
+      <link>http://localhost:1313/author/%E5%A7%9A%E5%BE%81%E5%85%B5/</link>
     </image>
     
     <item>
       <title>Zhengbing Yao</title>
-      <link>https://example.com/author/zhengbing-yao/</link>
+      <link>http://localhost:1313/author/zhengbing-yao/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.com/author/zhengbing-yao/</guid>
+      <guid>http://localhost:1313/author/zhengbing-yao/</guid>
       <description>&lt;p&gt;张思博 is a PhD candidate with research interests in multimodal reasoning, machine translation, and AI for Science. His work focuses on advancing the integration of diverse data modalities and applying artificial intelligence to scientific discovery.&lt;/p&gt;
 &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.&lt;/p&gt;
 </description>

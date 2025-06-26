@@ -1,5 +1,4 @@
 ---
-# Leave the homepage title empty to use the site title
 title:  AI For Multimodal Cognitive Intelligence Lab
 date: 2022-10-24
 type: landing
@@ -9,7 +8,9 @@ sections:
     content:
       title: |
         <span style="font-size: ; color: #ffffff;font-family: 'Lora', serif">AI For Multimodal Cognitive Intelligence Lab</span>
-      text: |
+        <br>
+        <span style="font-size:0.7em ; color: #ffffff;font-family: 'Lora', serif">Affiliated with University of Chinese Academy of Sciences</span>
+      text: | 
       text: |
       text: |
         <br>
