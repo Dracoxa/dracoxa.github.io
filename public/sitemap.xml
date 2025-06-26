@@ -2,140 +2,140 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://example.com/event/example/</loc>
+    <loc>http://localhost:1313/event/example/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/event/</loc>
+    <loc>http://localhost:1313/event/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/authors/</loc>
+    <loc>http://localhost:1313/authors/</loc>
     <lastmod>2025-07-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/author/cheng-tan/</loc>
+    <loc>http://localhost:1313/author/cheng-tan/</loc>
     <lastmod>2025-07-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/publication/from-words-to-structured-copy/</loc>
+    <loc>http://localhost:1313/publication/from-words-to-structured-copy/</loc>
     <lastmod>2025-07-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/publication/from-words-to-structured/</loc>
+    <loc>http://localhost:1313/publication/from-words-to-structured/</loc>
     <lastmod>2025-07-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/author/jingxuan-wei/</loc>
+    <loc>http://localhost:1313/author/jingxuan-wei/</loc>
     <lastmod>2025-07-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/publication/</loc>
+    <loc>http://localhost:1313/publication/</loc>
     <lastmod>2025-07-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/author/qi-chen/</loc>
+    <loc>http://localhost:1313/author/qi-chen/</loc>
     <lastmod>2025-07-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/author/%E9%AD%8F%E9%9D%96%E7%83%9C/</loc>
+    <loc>http://localhost:1313/author/%E9%AD%8F%E9%9D%96%E7%83%9C/</loc>
     <lastmod>2025-07-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/publication-type/article/</loc>
+    <loc>http://localhost:1313/publication-type/article/</loc>
     <lastmod>2025-06-23T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/tag/brain-computer-interface/</loc>
+    <loc>http://localhost:1313/tag/brain-computer-interface/</loc>
     <lastmod>2025-06-23T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/tag/chinese-words-decoding/</loc>
+    <loc>http://localhost:1313/tag/chinese-words-decoding/</loc>
     <lastmod>2025-06-23T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/tag/eeg/</loc>
+    <loc>http://localhost:1313/tag/eeg/</loc>
     <lastmod>2025-06-23T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/publication/eegtcw-copy/</loc>
+    <loc>http://localhost:1313/publication/eegtcw-copy/</loc>
     <lastmod>2025-06-23T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/publication/preprint/</loc>
+    <loc>http://localhost:1313/publication/preprint/</loc>
     <lastmod>2025-06-23T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/publication/multifaceted-assessment-and-copy/</loc>
+    <loc>http://localhost:1313/publication/multifaceted-assessment-and-copy/</loc>
     <lastmod>2025-06-23T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/publication/multifaceted-assessment-and/</loc>
+    <loc>http://localhost:1313/publication/multifaceted-assessment-and/</loc>
     <lastmod>2025-06-23T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/publication_types/</loc>
+    <loc>http://localhost:1313/publication_types/</loc>
     <lastmod>2025-06-23T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/author/sibo-zhang/</loc>
+    <loc>http://localhost:1313/author/sibo-zhang/</loc>
     <lastmod>2025-06-23T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/tags/</loc>
+    <loc>http://localhost:1313/tags/</loc>
     <lastmod>2025-06-23T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/author/%E5%BC%A0%E6%80%9D%E5%8D%9A/</loc>
+    <loc>http://localhost:1313/author/%E5%BC%A0%E6%80%9D%E5%8D%9A/</loc>
     <lastmod>2025-06-23T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/post/congratulations-on-cvpr-2025-publication/</loc>
+    <loc>http://localhost:1313/post/congratulations-on-cvpr-2025-publication/</loc>
     <lastmod>2025-02-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/post/</loc>
+    <loc>http://localhost:1313/post/</loc>
     <lastmod>2025-02-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/</loc>
+    <loc>http://localhost:1313/</loc>
     <lastmod>2022-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/contact/</loc>
+    <loc>http://localhost:1313/contact/</loc>
     <lastmod>2022-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/people/</loc>
+    <loc>http://localhost:1313/people/</loc>
     <lastmod>2022-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/tour/</loc>
+    <loc>http://localhost:1313/tour/</loc>
     <lastmod>2022-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/admin/</loc>
+    <loc>http://localhost:1313/admin/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/author/caijun-jia/</loc>
+    <loc>http://localhost:1313/author/caijun-jia/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/categories/</loc>
+    <loc>http://localhost:1313/categories/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/author/gaowei-wu/</loc>
+    <loc>http://localhost:1313/author/gaowei-wu/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/author/mingfei-jin/</loc>
+    <loc>http://localhost:1313/author/mingfei-jin/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/author/zhengbing-yao/</loc>
+    <loc>http://localhost:1313/author/zhengbing-yao/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/author/%E5%A7%9A%E5%BE%81%E5%85%B5/</loc>
+    <loc>http://localhost:1313/author/%E5%A7%9A%E5%BE%81%E5%85%B5/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/author/%E8%B4%BE%E5%BD%A9%E5%86%9B/</loc>
+    <loc>http://localhost:1313/author/%E8%B4%BE%E5%BD%A9%E5%86%9B/</loc>
     <changefreq>weekly</changefreq>
   </url>
 </urlset>
