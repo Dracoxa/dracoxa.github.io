@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Linzhuang Sun | 多模态认知智能实验室</title>
-    <link>https://example.com/author/linzhuang-sun/</link>
-      <atom:link href="https://example.com/author/linzhuang-sun/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/author/linzhuang-sun/</link>
+      <atom:link href="http://localhost:1313/author/linzhuang-sun/index.xml" rel="self" type="application/rss+xml" />
     <description>Linzhuang Sun</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 03 Jun 2024 15:57:35 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/logo_hu_81c9b54ff9ed5c81.png</url>
+      <url>http://localhost:1313/media/logo_hu_81c9b54ff9ed5c81.png</url>
       <title>Linzhuang Sun</title>
-      <link>https://example.com/author/linzhuang-sun/</link>
+      <link>http://localhost:1313/author/linzhuang-sun/</link>
     </image>
     
     <item>
       <title>A survey on advancements in image-text multimodal models: From general techniques to biomedical implementations</title>
-      <link>https://example.com/publication/a-survey-on-advancements-in-image-text-multimodal-models-from-general-techniques-to-biomedical-implementations/</link>
+      <link>http://localhost:1313/publication/a-survey-on-advancements-in-image-text-multimodal-models-from-general-techniques-to-biomedical-implementations/</link>
       <pubDate>Mon, 03 Jun 2024 15:57:35 +0000</pubDate>
-      <guid>https://example.com/publication/a-survey-on-advancements-in-image-text-multimodal-models-from-general-techniques-to-biomedical-implementations/</guid>
+      <guid>http://localhost:1313/publication/a-survey-on-advancements-in-image-text-multimodal-models-from-general-techniques-to-biomedical-implementations/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Sentence-Level or Token-Level: A Comprehensive Study on Knowledge Distillation</title>
-      <link>https://example.com/publication/sentence-level-or-token-level-a-comprehensive-study-on-knowledge-distillation/</link>
+      <link>http://localhost:1313/publication/sentence-level-or-token-level-a-comprehensive-study-on-knowledge-distillation/</link>
       <pubDate>Tue, 23 Apr 2024 08:29:56 +0000</pubDate>
-      <guid>https://example.com/publication/sentence-level-or-token-level-a-comprehensive-study-on-knowledge-distillation/</guid>
+      <guid>http://localhost:1313/publication/sentence-level-or-token-level-a-comprehensive-study-on-knowledge-distillation/</guid>
       <description></description>
     </item>
     
     <item>
       <title>TED-CS: Textual Enhanced Sensitive Video Detection with Common Sense Knowledge</title>
-      <link>https://example.com/publication/ted-cs-textual-enhanced-sensitive-video-detection-with-common-sense-knowledge/</link>
+      <link>http://localhost:1313/publication/ted-cs-textual-enhanced-sensitive-video-detection-with-common-sense-knowledge/</link>
       <pubDate>Sun, 05 Nov 2023 15:57:35 +0000</pubDate>
-      <guid>https://example.com/publication/ted-cs-textual-enhanced-sensitive-video-detection-with-common-sense-knowledge/</guid>
+      <guid>http://localhost:1313/publication/ted-cs-textual-enhanced-sensitive-video-detection-with-common-sense-knowledge/</guid>
       <description></description>
     </item>
     
