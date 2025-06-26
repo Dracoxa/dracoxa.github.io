@@ -30,12 +30,13 @@ marketing:
     baidu: ''
 
 # Site header
+
 header:
   navbar:
     enable: true
     align: r  
     show_logo: true
-    logo_text: "AI For Multimodal Cognitive Intelligence Lab"  # Add this line
+     
     show_language: false
     show_day_night: true
     show_search: true

@@ -1,27 +1,27 @@
 ---
-# Display name
+
 title: Caijun Jia
 
-# Full name (for SEO)
+
 first_name: Caijun 
 last_name:  Jia
 
-# Username (this should match the folder name)
+
 authors:
   - 贾彩军
 
-# Is this the primary user of the site?
+
 superuser: false
 
-# Role/position
+
 role: Phd
 
-# Organizations/Affiliations
+
 organizations:
   - name: 
     url: ''
 
-# Short bio (displayed in user profile at end of posts)
+
 bio: My research interests include Brain-inspired Intelligence.
 
 interests:

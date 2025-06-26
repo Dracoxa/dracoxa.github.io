@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Mingfei Jin | 多模态认知智能实验室</title>
-    <link>http://localhost:1313/author/mingfei-jin/</link>
-      <atom:link href="http://localhost:1313/author/mingfei-jin/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://example.com/author/mingfei-jin/</link>
+      <atom:link href="https://example.com/author/mingfei-jin/index.xml" rel="self" type="application/rss+xml" />
     <description>Mingfei Jin</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
     <image>
-      <url>http://localhost:1313/media/logo_hu_81c9b54ff9ed5c81.png</url>
+      <url>https://example.com/media/logo_hu_81c9b54ff9ed5c81.png</url>
       <title>Mingfei Jin</title>
-      <link>http://localhost:1313/author/mingfei-jin/</link>
+      <link>https://example.com/author/mingfei-jin/</link>
     </image>
     
     <item>
       <title>Mingfei Jin</title>
-      <link>http://localhost:1313/author/mingfei-jin/</link>
+      <link>https://example.com/author/mingfei-jin/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/author/mingfei-jin/</guid>
+      <guid>https://example.com/author/mingfei-jin/</guid>
       <description>&lt;p&gt;Mingfei Jin is a Master candidate with research interests in large language models, reinforcement learning, and reasoning chains. His work focuses on advancing AI reasoning and learning systems.&lt;/p&gt;
 &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.&lt;/p&gt;
 </description>
