@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>靳赫烜 | 多模态认知智能实验室</title>
-    <link>http://localhost:1313/author/%E9%9D%B3%E8%B5%AB%E7%83%9C/</link>
-      <atom:link href="http://localhost:1313/author/%E9%9D%B3%E8%B5%AB%E7%83%9C/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://example.com/author/%E9%9D%B3%E8%B5%AB%E7%83%9C/</link>
+      <atom:link href="https://example.com/author/%E9%9D%B3%E8%B5%AB%E7%83%9C/index.xml" rel="self" type="application/rss+xml" />
     <description>靳赫烜</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
     <image>
-      <url>http://localhost:1313/media/logo_hu_81c9b54ff9ed5c81.png</url>
+      <url>https://example.com/media/logo_hu_81c9b54ff9ed5c81.png</url>
       <title>靳赫烜</title>
-      <link>http://localhost:1313/author/%E9%9D%B3%E8%B5%AB%E7%83%9C/</link>
+      <link>https://example.com/author/%E9%9D%B3%E8%B5%AB%E7%83%9C/</link>
     </image>
     
     <item>
       <title>靳赫烜</title>
-      <link>http://localhost:1313/author/%E9%9D%B3%E8%B5%AB%E7%83%9C/</link>
+      <link>https://example.com/author/%E9%9D%B3%E8%B5%AB%E7%83%9C/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/author/%E9%9D%B3%E8%B5%AB%E7%83%9C/</guid>
+      <guid>https://example.com/author/%E9%9D%B3%E8%B5%AB%E7%83%9C/</guid>
       <description>&lt;p&gt;Hexuan Jin is a Master candidate with research interests in Multimodal Large Language Models (MLLM) and Agent systems. His work focuses on integrating multimodal data and intelligent agents.&lt;/p&gt;
 &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.&lt;/p&gt;
 </description>

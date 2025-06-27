@@ -2,282 +2,282 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/event/example/</loc>
+    <loc>https://example.com/event/example/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/event/</loc>
+    <loc>https://example.com/event/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/authors/</loc>
+    <loc>https://example.com/authors/</loc>
     <lastmod>2025-07-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/author/cheng-tan/</loc>
+    <loc>https://example.com/author/cheng-tan/</loc>
     <lastmod>2025-07-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/conference-paper/from-words-to-structured/</loc>
+    <loc>https://example.com/publication/conference-paper/from-words-to-structured/</loc>
     <lastmod>2025-07-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication-type/paper-conference/</loc>
+    <loc>https://example.com/publication-type/paper-conference/</loc>
     <lastmod>2025-07-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication_types/</loc>
+    <loc>https://example.com/publication_types/</loc>
     <lastmod>2025-07-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/</loc>
+    <loc>https://example.com/publication/</loc>
     <lastmod>2025-07-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/author/%E9%99%88%E5%A5%87/</loc>
+    <loc>https://example.com/author/%E9%99%88%E5%A5%87/</loc>
     <lastmod>2025-07-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/author/%E9%AD%8F%E9%9D%96%E7%83%9C/</loc>
+    <loc>https://example.com/author/%E9%AD%8F%E9%9D%96%E7%83%9C/</loc>
     <lastmod>2025-07-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/author/dawei-liu/</loc>
+    <loc>https://example.com/author/dawei-liu/</loc>
     <lastmod>2025-06-23T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/author/guiyong-chang/</loc>
+    <loc>https://example.com/author/guiyong-chang/</loc>
     <lastmod>2025-06-23T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/author/liping-bu/</loc>
+    <loc>https://example.com/author/liping-bu/</loc>
     <lastmod>2025-06-23T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/conference-paper/multifaceted-assessment-and/</loc>
+    <loc>https://example.com/publication/conference-paper/multifaceted-assessment-and/</loc>
     <lastmod>2025-06-23T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/author/%E5%AD%99%E6%9E%97%E5%A3%AE/</loc>
+    <loc>https://example.com/author/%E5%AD%99%E6%9E%97%E5%A3%AE/</loc>
     <lastmod>2025-06-23T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication-type/article/</loc>
+    <loc>https://example.com/publication-type/article/</loc>
     <lastmod>2025-04-14T15:57:35+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/preprint/chartmind-a-comprehensive-benchmark-for-complex-real-world-multimodal-chart-question-answering/</loc>
+    <loc>https://example.com/publication/preprint/chartmind-a-comprehensive-benchmark-for-complex-real-world-multimodal-chart-question-answering/</loc>
     <lastmod>2025-04-14T15:57:35+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/preprint/chartreasoner-code-driven-modality-bridging-for-long-chain-reasoning-in-chart-question-answering/</loc>
+    <loc>https://example.com/publication/preprint/chartreasoner-code-driven-modality-bridging-for-long-chain-reasoning-in-chart-question-answering/</loc>
     <lastmod>2025-04-14T15:57:35+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/author/junnan-zhu/</loc>
+    <loc>https://example.com/author/junnan-zhu/</loc>
     <lastmod>2025-04-14T15:57:35+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/author/lei-wang/</loc>
+    <loc>https://example.com/author/lei-wang/</loc>
     <lastmod>2025-04-14T15:57:35+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/author/lei-wang-bihui-yu/</loc>
+    <loc>https://example.com/author/lei-wang-bihui-yu/</loc>
     <lastmod>2025-04-14T15:57:35+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/author/nan-xu/</loc>
+    <loc>https://example.com/author/nan-xu/</loc>
     <lastmod>2025-04-14T15:57:35+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/author/qingli-wang/</loc>
+    <loc>https://example.com/author/qingli-wang/</loc>
     <lastmod>2025-04-14T15:57:35+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/author/yanni-hao/</loc>
+    <loc>https://example.com/author/yanni-hao/</loc>
     <lastmod>2025-04-14T15:57:35+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/author/%E4%BA%8E%E7%A2%A7%E8%BE%89/</loc>
+    <loc>https://example.com/author/%E4%BA%8E%E7%A2%A7%E8%BE%89/</loc>
     <lastmod>2025-04-14T15:57:35+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/author/%E4%BC%8D%E9%AB%98%E5%B7%8D/</loc>
+    <loc>https://example.com/author/%E4%BC%8D%E9%AB%98%E5%B7%8D/</loc>
     <lastmod>2025-04-14T15:57:35+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/author/%E8%B4%BE%E5%BD%A9%E5%86%9B/</loc>
+    <loc>https://example.com/author/%E8%B4%BE%E5%BD%A9%E5%86%9B/</loc>
     <lastmod>2025-04-14T15:57:35+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/post/congratulations-on-cvpr-2025-publication/</loc>
+    <loc>https://example.com/post/congratulations-on-cvpr-2025-publication/</loc>
     <lastmod>2025-02-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/post/</loc>
+    <loc>https://example.com/post/</loc>
     <lastmod>2025-02-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/conference-paper/faster-and-more-efficient-subject-image-generation-for-text-to-image-diffusion-models/</loc>
+    <loc>https://example.com/publication/conference-paper/faster-and-more-efficient-subject-image-generation-for-text-to-image-diffusion-models/</loc>
     <lastmod>2024-10-06T15:57:35+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/author/guiyong-chang/</loc>
+    <loc>https://example.com/author/guiyong-chang/</loc>
     <lastmod>2024-10-06T15:57:35+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/author/jingxuan-wei/</loc>
+    <loc>https://example.com/author/jingxuan-wei/</loc>
     <lastmod>2024-10-06T15:57:35+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/author/linzhuang-sun/</loc>
+    <loc>https://example.com/author/linzhuang-sun/</loc>
     <lastmod>2024-10-06T15:57:35+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/author/liping-bu/</loc>
+    <loc>https://example.com/author/liping-bu/</loc>
     <lastmod>2024-10-06T15:57:35+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/conference-paper/sam-wav2lip&#43;&#43;-enhancing-behavioral-realism-in-synthetic-agents-through-audio-driven-speech-and-action-refinement/</loc>
+    <loc>https://example.com/publication/conference-paper/sam-wav2lip&#43;&#43;-enhancing-behavioral-realism-in-synthetic-agents-through-audio-driven-speech-and-action-refinement/</loc>
     <lastmod>2024-10-06T15:57:35+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/author/%E5%A7%9A%E5%BE%81%E5%85%B5/</loc>
+    <loc>https://example.com/author/%E5%A7%9A%E5%BE%81%E5%85%B5/</loc>
     <lastmod>2024-10-06T15:57:35+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/conference-paper/interpretable-and-generalizable-spatiotemporal-predictive-learning-with-disentangled-consistency/</loc>
+    <loc>https://example.com/publication/conference-paper/interpretable-and-generalizable-spatiotemporal-predictive-learning-with-disentangled-consistency/</loc>
     <lastmod>2024-08-22T15:57:35+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/author/zhangyang-gao/</loc>
+    <loc>https://example.com/author/zhangyang-gao/</loc>
     <lastmod>2024-08-22T15:57:35+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/conference-paper/boosting-the-power-of-small-multimodal-reasoning-models-to-match-larger-models-with-self-consistency-training/</loc>
+    <loc>https://example.com/publication/conference-paper/boosting-the-power-of-small-multimodal-reasoning-models-to-match-larger-models-with-self-consistency-training/</loc>
     <lastmod>2024-07-03T02:56:47+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/conference-paper/a-survey-on-advancements-in-image-text-multimodal-models-from-general-techniques-to-biomedical-implementations/</loc>
+    <loc>https://example.com/publication/conference-paper/a-survey-on-advancements-in-image-text-multimodal-models-from-general-techniques-to-biomedical-implementations/</loc>
     <lastmod>2024-06-03T15:57:35+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/author/ruifeng-guo/</loc>
+    <loc>https://example.com/author/ruifeng-guo/</loc>
     <lastmod>2024-06-03T15:57:35+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/conference-paper/sentence-level-or-token-level-a-comprehensive-study-on-knowledge-distillation/</loc>
+    <loc>https://example.com/publication/conference-paper/sentence-level-or-token-level-a-comprehensive-study-on-knowledge-distillation/</loc>
     <lastmod>2024-04-23T08:29:56+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/author/yichong-leng/</loc>
+    <loc>https://example.com/author/yichong-leng/</loc>
     <lastmod>2024-04-23T08:29:56+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/conference-paper/em-cnn-bilstm-causality-extraction-based-on-electra-and-dual-stage-attention-mechanism/</loc>
+    <loc>https://example.com/publication/conference-paper/em-cnn-bilstm-causality-extraction-based-on-electra-and-dual-stage-attention-mechanism/</loc>
     <lastmod>2023-12-08T15:57:35+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/author/yiman-zhao/</loc>
+    <loc>https://example.com/author/yiman-zhao/</loc>
     <lastmod>2023-12-08T15:57:35+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/conference-paper/ted-cs-textual-enhanced-sensitive-video-detection-with-common-sense-knowledge/</loc>
+    <loc>https://example.com/publication/conference-paper/ted-cs-textual-enhanced-sensitive-video-detection-with-common-sense-knowledge/</loc>
     <lastmod>2023-11-05T15:57:35+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/conference-paper/enhancing-human-like-multi-modal-reasoning-a-new-challenging-dataset-and-comprehensive-framework/</loc>
+    <loc>https://example.com/publication/conference-paper/enhancing-human-like-multi-modal-reasoning-a-new-challenging-dataset-and-comprehensive-framework/</loc>
     <lastmod>2023-07-25T15:57:35+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/author/ang-wang/</loc>
+    <loc>https://example.com/author/ang-wang/</loc>
     <lastmod>2023-04-14T15:57:35+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/author/chang-liu/</loc>
+    <loc>https://example.com/author/chang-liu/</loc>
     <lastmod>2023-04-14T15:57:35+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/conference-paper/a-new-multimodal-video-detection-model-and-dataset/</loc>
+    <loc>https://example.com/publication/conference-paper/a-new-multimodal-video-detection-model-and-dataset/</loc>
     <lastmod>2023-04-14T15:57:35+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/conference-paper/construction-of-sensitive-image-datasets-based-on-generative-methods/</loc>
+    <loc>https://example.com/publication/conference-paper/construction-of-sensitive-image-datasets-based-on-generative-methods/</loc>
     <lastmod>2023-04-14T15:57:35+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/conference-paper/eegtcw-electroencephalogram-based-chinese-words-decoding/</loc>
+    <loc>https://example.com/publication/conference-paper/eegtcw-electroencephalogram-based-chinese-words-decoding/</loc>
     <lastmod>2023-04-14T15:57:35+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/author/jie-zhang/</loc>
+    <loc>https://example.com/author/jie-zhang/</loc>
     <lastmod>2023-04-14T15:57:35+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/author/lili-zhou/</loc>
+    <loc>https://example.com/author/lili-zhou/</loc>
     <lastmod>2023-04-14T15:57:35+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/author/shaojie-he/</loc>
+    <loc>https://example.com/author/shaojie-he/</loc>
     <lastmod>2023-04-14T15:57:35+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/author/%E5%BC%A0%E6%80%9D%E5%8D%9A/</loc>
+    <loc>https://example.com/author/%E5%BC%A0%E6%80%9D%E5%8D%9A/</loc>
     <lastmod>2023-04-14T15:57:35+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/author/%E5%BC%A0%E6%80%9D%E5%8D%9A/</loc>
+    <loc>https://example.com/author/%E5%BC%A0%E6%80%9D%E5%8D%9A/</loc>
     <lastmod>2023-04-14T15:57:35+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/conference-paper/mmes-improved-mayfly-algorithm-based-on-electrostatic-optimization-algorithm/</loc>
+    <loc>https://example.com/publication/conference-paper/mmes-improved-mayfly-algorithm-based-on-electrostatic-optimization-algorithm/</loc>
     <lastmod>2022-12-09T15:57:35+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://example.com/</loc>
     <lastmod>2022-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/contact/</loc>
+    <loc>https://example.com/contact/</loc>
     <lastmod>2022-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/people/</loc>
+    <loc>https://example.com/people/</loc>
     <lastmod>2022-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tour/</loc>
+    <loc>https://example.com/tour/</loc>
     <lastmod>2022-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/author/bo-yu/</loc>
+    <loc>https://example.com/author/bo-yu/</loc>
     <lastmod>2022-03-24T15:57:35+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/conference-paper/feature-guided-multimodal-sentiment-analysis-towards-industry-4.0/</loc>
+    <loc>https://example.com/publication/conference-paper/feature-guided-multimodal-sentiment-analysis-towards-industry-4.0/</loc>
     <lastmod>2022-03-24T15:57:35+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/conference-paper/idcnn-crf-based-domain-named-entity-recognition-method/</loc>
+    <loc>https://example.com/publication/conference-paper/idcnn-crf-based-domain-named-entity-recognition-method/</loc>
     <lastmod>2020-10-14T15:57:35+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/admin/</loc>
+    <loc>https://example.com/admin/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://example.com/categories/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://example.com/tags/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/author/%E5%88%98%E5%A4%A7%E4%BC%9F/</loc>
+    <loc>https://example.com/author/%E5%88%98%E5%A4%A7%E4%BC%9F/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/author/%E9%9D%B3%E6%98%8E%E9%A3%9E/</loc>
+    <loc>https://example.com/author/%E9%9D%B3%E6%98%8E%E9%A3%9E/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/author/%E9%9D%B3%E8%B5%AB%E7%83%9C/</loc>
+    <loc>https://example.com/author/%E9%9D%B3%E8%B5%AB%E7%83%9C/</loc>
     <changefreq>weekly</changefreq>
   </url>
 </urlset>
