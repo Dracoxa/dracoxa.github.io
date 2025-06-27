@@ -2,94 +2,94 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Bihui Yu | 多模态认知智能实验室</title>
-    <link>https://example.com/author/bihui-yu/</link>
-      <atom:link href="https://example.com/author/bihui-yu/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/author/bihui-yu/</link>
+      <atom:link href="http://localhost:1313/author/bihui-yu/index.xml" rel="self" type="application/rss+xml" />
     <description>Bihui Yu</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 06 Oct 2024 15:57:35 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/author/bihui-yu/avatar_hu_7343dfb698f06b9c.jpg</url>
+      <url>http://localhost:1313/author/bihui-yu/avatar_hu_7343dfb698f06b9c.jpg</url>
       <title>Bihui Yu</title>
-      <link>https://example.com/author/bihui-yu/</link>
+      <link>http://localhost:1313/author/bihui-yu/</link>
     </image>
     
     <item>
       <title>Bihui Yu</title>
-      <link>https://example.com/author/bihui-yu/</link>
+      <link>http://localhost:1313/author/bihui-yu/</link>
       <pubDate>Sun, 06 Oct 2024 15:57:35 +0000</pubDate>
-      <guid>https://example.com/author/bihui-yu/</guid>
+      <guid>http://localhost:1313/author/bihui-yu/</guid>
       <description>&lt;p&gt;Bihui Yu is a Researcher and Doctoral Supervisor at the Shenyang Institute of Computing Technology, Chinese Academy of Sciences, where he serves as the Head of Multimodal Cognitive Intelligence at the Technology Center and Deputy Director of the Liaoning Provincial Multimodal Intelligent Perception and Cognitive Engineering Research Center. His research focuses on big data, artificial intelligence, knowledge engineering (knowledge graphs), and multimodal data processing. He has led and participated in over 20 national, provincial, and municipal research projects, including the National Major Scientific Instrument Development Project and the National Key R&amp;amp;D Program. Bihui has published over 40 academic papers in domestic and international conferences and journals, applied for more than 10 national invention patents, and contributed to the development of products such as digital broadcasting terminals, communication scheduling terminals, industrial big data analysis platforms, and knowledge management platforms. He has extensive experience in big data, knowledge engineering, natural language processing, and network communication applications&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Faster and More Efficient Subject Image Generation for Text-to-Image Diffusion Models</title>
-      <link>https://example.com/publication/faster-and-more-efficient-subject-image-generation-for-text-to-image-diffusion-models/</link>
+      <link>http://localhost:1313/publication/faster-and-more-efficient-subject-image-generation-for-text-to-image-diffusion-models/</link>
       <pubDate>Sun, 06 Oct 2024 15:57:35 +0000</pubDate>
-      <guid>https://example.com/publication/faster-and-more-efficient-subject-image-generation-for-text-to-image-diffusion-models/</guid>
+      <guid>http://localhost:1313/publication/faster-and-more-efficient-subject-image-generation-for-text-to-image-diffusion-models/</guid>
       <description></description>
     </item>
     
     <item>
       <title>SAM-Wav2lip&#43;&#43;: Enhancing Behavioral Realism in Synthetic Agents Through Audio-Driven Speech and Action Refinement</title>
-      <link>https://example.com/publication/sam-wav2lip&#43;&#43;-enhancing-behavioral-realism-in-synthetic-agents-through-audio-driven-speech-and-action-refinement/</link>
+      <link>http://localhost:1313/publication/sam-wav2lip&#43;&#43;-enhancing-behavioral-realism-in-synthetic-agents-through-audio-driven-speech-and-action-refinement/</link>
       <pubDate>Sun, 06 Oct 2024 15:57:35 +0000</pubDate>
-      <guid>https://example.com/publication/sam-wav2lip&#43;&#43;-enhancing-behavioral-realism-in-synthetic-agents-through-audio-driven-speech-and-action-refinement/</guid>
+      <guid>http://localhost:1313/publication/sam-wav2lip&#43;&#43;-enhancing-behavioral-realism-in-synthetic-agents-through-audio-driven-speech-and-action-refinement/</guid>
       <description></description>
     </item>
     
     <item>
       <title>EM-CNN-BiLSTM: Causality extraction based on Electra and Dual-Stage Attention Mechanism</title>
-      <link>https://example.com/publication/em-cnn-bilstm-causality-extraction-based-on-electra-and-dual-stage-attention-mechanism/</link>
+      <link>http://localhost:1313/publication/em-cnn-bilstm-causality-extraction-based-on-electra-and-dual-stage-attention-mechanism/</link>
       <pubDate>Fri, 08 Dec 2023 15:57:35 +0000</pubDate>
-      <guid>https://example.com/publication/em-cnn-bilstm-causality-extraction-based-on-electra-and-dual-stage-attention-mechanism/</guid>
+      <guid>http://localhost:1313/publication/em-cnn-bilstm-causality-extraction-based-on-electra-and-dual-stage-attention-mechanism/</guid>
       <description></description>
     </item>
     
     <item>
       <title>TED-CS: Textual Enhanced Sensitive Video Detection with Common Sense Knowledge</title>
-      <link>https://example.com/publication/ted-cs-textual-enhanced-sensitive-video-detection-with-common-sense-knowledge/</link>
+      <link>http://localhost:1313/publication/ted-cs-textual-enhanced-sensitive-video-detection-with-common-sense-knowledge/</link>
       <pubDate>Sun, 05 Nov 2023 15:57:35 +0000</pubDate>
-      <guid>https://example.com/publication/ted-cs-textual-enhanced-sensitive-video-detection-with-common-sense-knowledge/</guid>
+      <guid>http://localhost:1313/publication/ted-cs-textual-enhanced-sensitive-video-detection-with-common-sense-knowledge/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Construction of Sensitive Image Datasets Based on Generative Methods</title>
-      <link>https://example.com/publication/a-new-multimodal-video-detection-model-and-dataset/</link>
+      <link>http://localhost:1313/publication/a-new-multimodal-video-detection-model-and-dataset/</link>
       <pubDate>Fri, 14 Apr 2023 15:57:35 +0000</pubDate>
-      <guid>https://example.com/publication/a-new-multimodal-video-detection-model-and-dataset/</guid>
+      <guid>http://localhost:1313/publication/a-new-multimodal-video-detection-model-and-dataset/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Construction of Sensitive Image Datasets Based on Generative Methods</title>
-      <link>https://example.com/publication/construction-of-sensitive-image-datasets-based-on-generative-methods/</link>
+      <link>http://localhost:1313/publication/construction-of-sensitive-image-datasets-based-on-generative-methods/</link>
       <pubDate>Fri, 14 Apr 2023 15:57:35 +0000</pubDate>
-      <guid>https://example.com/publication/construction-of-sensitive-image-datasets-based-on-generative-methods/</guid>
+      <guid>http://localhost:1313/publication/construction-of-sensitive-image-datasets-based-on-generative-methods/</guid>
       <description></description>
     </item>
     
     <item>
       <title>MMES: Improved Mayfly Algorithm Based on Electrostatic Optimization Algorithm</title>
-      <link>https://example.com/publication/mmes-improved-mayfly-algorithm-based-on-electrostatic-optimization-algorithm/</link>
+      <link>http://localhost:1313/publication/mmes-improved-mayfly-algorithm-based-on-electrostatic-optimization-algorithm/</link>
       <pubDate>Fri, 09 Dec 2022 15:57:35 +0000</pubDate>
-      <guid>https://example.com/publication/mmes-improved-mayfly-algorithm-based-on-electrostatic-optimization-algorithm/</guid>
+      <guid>http://localhost:1313/publication/mmes-improved-mayfly-algorithm-based-on-electrostatic-optimization-algorithm/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Feature-guided Multimodal Sentiment Analysis towards Industry 4.0</title>
-      <link>https://example.com/publication/feature-guided-multimodal-sentiment-analysis-towards-industry-4.0/</link>
+      <link>http://localhost:1313/publication/feature-guided-multimodal-sentiment-analysis-towards-industry-4.0/</link>
       <pubDate>Thu, 24 Mar 2022 15:57:35 +0000</pubDate>
-      <guid>https://example.com/publication/feature-guided-multimodal-sentiment-analysis-towards-industry-4.0/</guid>
+      <guid>http://localhost:1313/publication/feature-guided-multimodal-sentiment-analysis-towards-industry-4.0/</guid>
       <description></description>
     </item>
     
     <item>
       <title>IDCNN-CRF-based domain named entity recognition method</title>
-      <link>https://example.com/publication/idcnn-crf-based-domain-named-entity-recognition-method/</link>
+      <link>http://localhost:1313/publication/idcnn-crf-based-domain-named-entity-recognition-method/</link>
       <pubDate>Wed, 14 Oct 2020 15:57:35 +0000</pubDate>
-      <guid>https://example.com/publication/idcnn-crf-based-domain-named-entity-recognition-method/</guid>
+      <guid>http://localhost:1313/publication/idcnn-crf-based-domain-named-entity-recognition-method/</guid>
       <description></description>
     </item>
     

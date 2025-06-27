@@ -2,236 +2,236 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://example.com/event/example/</loc>
+    <loc>http://localhost:1313/event/example/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/event/</loc>
+    <loc>http://localhost:1313/event/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/authors/</loc>
+    <loc>http://localhost:1313/authors/</loc>
     <lastmod>2025-07-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/author/cheng-tan/</loc>
+    <loc>http://localhost:1313/author/cheng-tan/</loc>
     <lastmod>2025-07-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/publication/from-words-to-structured/</loc>
+    <loc>http://localhost:1313/publication/from-words-to-structured/</loc>
     <lastmod>2025-07-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/author/jingxuan-wei/</loc>
+    <loc>http://localhost:1313/author/jingxuan-wei/</loc>
     <lastmod>2025-07-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/publication/</loc>
+    <loc>http://localhost:1313/publication/</loc>
     <lastmod>2025-07-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/author/qi-chen/</loc>
+    <loc>http://localhost:1313/author/qi-chen/</loc>
     <lastmod>2025-07-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/publication-type/article/</loc>
+    <loc>http://localhost:1313/publication-type/article/</loc>
     <lastmod>2025-06-23T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/tag/brain-computer-interface/</loc>
+    <loc>http://localhost:1313/tag/brain-computer-interface/</loc>
     <lastmod>2025-06-23T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/tag/chinese-words-decoding/</loc>
+    <loc>http://localhost:1313/tag/chinese-words-decoding/</loc>
     <lastmod>2025-06-23T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/tag/eeg/</loc>
+    <loc>http://localhost:1313/tag/eeg/</loc>
     <lastmod>2025-06-23T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/publication/preprint/</loc>
+    <loc>http://localhost:1313/publication/preprint/</loc>
     <lastmod>2025-06-23T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/publication/multifaceted-assessment-and/</loc>
+    <loc>http://localhost:1313/publication/multifaceted-assessment-and/</loc>
     <lastmod>2025-06-23T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/publication_types/</loc>
+    <loc>http://localhost:1313/publication_types/</loc>
     <lastmod>2025-06-23T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/author/sibo-zhang/</loc>
+    <loc>http://localhost:1313/author/sibo-zhang/</loc>
     <lastmod>2025-06-23T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/tags/</loc>
+    <loc>http://localhost:1313/tags/</loc>
     <lastmod>2025-06-23T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/author/%E5%BC%A0%E6%80%9D%E5%8D%9A/</loc>
+    <loc>http://localhost:1313/author/%E5%BC%A0%E6%80%9D%E5%8D%9A/</loc>
     <lastmod>2025-06-23T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/post/congratulations-on-cvpr-2025-publication/</loc>
+    <loc>http://localhost:1313/post/congratulations-on-cvpr-2025-publication/</loc>
     <lastmod>2025-02-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/post/</loc>
+    <loc>http://localhost:1313/post/</loc>
     <lastmod>2025-02-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/author/bihui-yu/</loc>
+    <loc>http://localhost:1313/author/bihui-yu/</loc>
     <lastmod>2024-10-06T15:57:35+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/author/dawei-liu/</loc>
+    <loc>http://localhost:1313/author/dawei-liu/</loc>
     <lastmod>2024-10-06T15:57:35+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/publication/faster-and-more-efficient-subject-image-generation-for-text-to-image-diffusion-models/</loc>
+    <loc>http://localhost:1313/publication/faster-and-more-efficient-subject-image-generation-for-text-to-image-diffusion-models/</loc>
     <lastmod>2024-10-06T15:57:35+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/author/huiyang-shi/</loc>
+    <loc>http://localhost:1313/author/huiyang-shi/</loc>
     <lastmod>2024-10-06T15:57:35+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/publication/sam-wav2lip&#43;&#43;-enhancing-behavioral-realism-in-synthetic-agents-through-audio-driven-speech-and-action-refinement/</loc>
+    <loc>http://localhost:1313/publication/sam-wav2lip&#43;&#43;-enhancing-behavioral-realism-in-synthetic-agents-through-audio-driven-speech-and-action-refinement/</loc>
     <lastmod>2024-10-06T15:57:35+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/author/zhengbing-yao/</loc>
+    <loc>http://localhost:1313/author/zhengbing-yao/</loc>
     <lastmod>2024-10-06T15:57:35+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/author/%E5%A7%9A%E5%BE%81%E5%85%B5/</loc>
+    <loc>http://localhost:1313/author/%E5%A7%9A%E5%BE%81%E5%85%B5/</loc>
     <lastmod>2024-10-06T15:57:35+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/publication/interpretable-and-generalizable-spatiotemporal-predictive-learning-with-disentangled-consistency/</loc>
+    <loc>http://localhost:1313/publication/interpretable-and-generalizable-spatiotemporal-predictive-learning-with-disentangled-consistency/</loc>
     <lastmod>2024-08-22T15:57:35+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/author/zhangyang-gao/</loc>
+    <loc>http://localhost:1313/author/zhangyang-gao/</loc>
     <lastmod>2024-08-22T15:57:35+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/publication/boosting-the-power-of-small-multimodal-reasoning-models-to-match-larger-models-with-self-consistency-training/</loc>
+    <loc>http://localhost:1313/publication/boosting-the-power-of-small-multimodal-reasoning-models-to-match-larger-models-with-self-consistency-training/</loc>
     <lastmod>2024-07-03T02:56:47+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/publication/a-survey-on-advancements-in-image-text-multimodal-models-from-general-techniques-to-biomedical-implementations/</loc>
+    <loc>http://localhost:1313/publication/a-survey-on-advancements-in-image-text-multimodal-models-from-general-techniques-to-biomedical-implementations/</loc>
     <lastmod>2024-06-03T15:57:35+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/author/linzhuang-sun/</loc>
+    <loc>http://localhost:1313/author/linzhuang-sun/</loc>
     <lastmod>2024-06-03T15:57:35+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/author/ruifeng-guo/</loc>
+    <loc>http://localhost:1313/author/ruifeng-guo/</loc>
     <lastmod>2024-06-03T15:57:35+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/publication/sentence-level-or-token-level-a-comprehensive-study-on-knowledge-distillation/</loc>
+    <loc>http://localhost:1313/publication/sentence-level-or-token-level-a-comprehensive-study-on-knowledge-distillation/</loc>
     <lastmod>2024-04-23T08:29:56+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/author/yichong-leng/</loc>
+    <loc>http://localhost:1313/author/yichong-leng/</loc>
     <lastmod>2024-04-23T08:29:56+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/publication/em-cnn-bilstm-causality-extraction-based-on-electra-and-dual-stage-attention-mechanism/</loc>
+    <loc>http://localhost:1313/publication/em-cnn-bilstm-causality-extraction-based-on-electra-and-dual-stage-attention-mechanism/</loc>
     <lastmod>2023-12-08T15:57:35+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/author/yiman-zhao/</loc>
+    <loc>http://localhost:1313/author/yiman-zhao/</loc>
     <lastmod>2023-12-08T15:57:35+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/publication/ted-cs-textual-enhanced-sensitive-video-detection-with-common-sense-knowledge/</loc>
+    <loc>http://localhost:1313/publication/ted-cs-textual-enhanced-sensitive-video-detection-with-common-sense-knowledge/</loc>
     <lastmod>2023-11-05T15:57:35+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/publication/enhancing-human-like-multi-modal-reasoning-a-new-challenging-dataset-and-comprehensive-framework/</loc>
+    <loc>http://localhost:1313/publication/enhancing-human-like-multi-modal-reasoning-a-new-challenging-dataset-and-comprehensive-framework/</loc>
     <lastmod>2023-07-25T15:57:35+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/author/chang-liu/</loc>
+    <loc>http://localhost:1313/author/chang-liu/</loc>
     <lastmod>2023-04-14T15:57:35+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/publication/a-new-multimodal-video-detection-model-and-dataset/</loc>
+    <loc>http://localhost:1313/publication/a-new-multimodal-video-detection-model-and-dataset/</loc>
     <lastmod>2023-04-14T15:57:35+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/publication/construction-of-sensitive-image-datasets-based-on-generative-methods/</loc>
+    <loc>http://localhost:1313/publication/construction-of-sensitive-image-datasets-based-on-generative-methods/</loc>
     <lastmod>2023-04-14T15:57:35+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/author/jie-zhang/</loc>
+    <loc>http://localhost:1313/author/jie-zhang/</loc>
     <lastmod>2023-04-14T15:57:35+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/author/shaojie-he/</loc>
+    <loc>http://localhost:1313/author/shaojie-he/</loc>
     <lastmod>2023-04-14T15:57:35+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/publication/mmes-improved-mayfly-algorithm-based-on-electrostatic-optimization-algorithm/</loc>
+    <loc>http://localhost:1313/publication/mmes-improved-mayfly-algorithm-based-on-electrostatic-optimization-algorithm/</loc>
     <lastmod>2022-12-09T15:57:35+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/</loc>
+    <loc>http://localhost:1313/</loc>
     <lastmod>2022-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/contact/</loc>
+    <loc>http://localhost:1313/contact/</loc>
     <lastmod>2022-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/people/</loc>
+    <loc>http://localhost:1313/people/</loc>
     <lastmod>2022-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/tour/</loc>
+    <loc>http://localhost:1313/tour/</loc>
     <lastmod>2022-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/author/bo-yu/</loc>
+    <loc>http://localhost:1313/author/bo-yu/</loc>
     <lastmod>2022-03-24T15:57:35+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/publication/feature-guided-multimodal-sentiment-analysis-towards-industry-4.0/</loc>
+    <loc>http://localhost:1313/publication/feature-guided-multimodal-sentiment-analysis-towards-industry-4.0/</loc>
     <lastmod>2022-03-24T15:57:35+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/publication/idcnn-crf-based-domain-named-entity-recognition-method/</loc>
+    <loc>http://localhost:1313/publication/idcnn-crf-based-domain-named-entity-recognition-method/</loc>
     <lastmod>2020-10-14T15:57:35+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/admin/</loc>
+    <loc>http://localhost:1313/admin/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/author/caijun-jia/</loc>
+    <loc>http://localhost:1313/author/caijun-jia/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/categories/</loc>
+    <loc>http://localhost:1313/categories/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/author/dawei-liu/</loc>
+    <loc>http://localhost:1313/author/dawei-liu/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/author/gaowei-wu/</loc>
+    <loc>http://localhost:1313/author/gaowei-wu/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/author/hexuan-jin/</loc>
+    <loc>http://localhost:1313/author/hexuan-jin/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/author/mingfei-jin/</loc>
+    <loc>http://localhost:1313/author/mingfei-jin/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/author/%E8%B4%BE%E5%BD%A9%E5%86%9B/</loc>
+    <loc>http://localhost:1313/author/%E8%B4%BE%E5%BD%A9%E5%86%9B/</loc>
     <changefreq>weekly</changefreq>
   </url>
 </urlset>
