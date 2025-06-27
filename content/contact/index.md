@@ -10,7 +10,7 @@ sections:
       title: Contact
       text: |-
         The Shenyang Institute of Computing Technology, Chinese Academy of Sciences (SICT, CAS), is a leading research institution in China, specializing in advanced computing technologies and information science. Established in 1985 in Shenyang, Liaoning Province, SICT focuses on cutting-edge research in areas such as computer architecture, high-performance computing, artificial intelligence, and network security. The institute is renowned for its contributions to China's technological innovation, including the development of the Dawning series of supercomputers. SICT collaborates with academic and industrial partners to drive advancements in science and technology, fostering talent and supporting national strategic initiatives in computing and digital transformation.
-      email: admin.office@sict.ac.cn
+      email: sictmllm@163.com
       
       address:
         street: 南屏东路16号

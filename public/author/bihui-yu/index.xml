@@ -7,10 +7,19 @@
     <description>Bihui Yu</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 06 Oct 2024 15:57:35 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/logo_hu_81c9b54ff9ed5c81.png</url>
+      <url>https://example.com/author/bihui-yu/avatar_hu_7343dfb698f06b9c.jpg</url>
       <title>Bihui Yu</title>
       <link>https://example.com/author/bihui-yu/</link>
     </image>
+    
+    <item>
+      <title>Bihui Yu</title>
+      <link>https://example.com/author/bihui-yu/</link>
+      <pubDate>Sun, 06 Oct 2024 15:57:35 +0000</pubDate>
+      <guid>https://example.com/author/bihui-yu/</guid>
+      <description>&lt;p&gt;Bihui Yu is a Researcher and Doctoral Supervisor at the Shenyang Institute of Computing Technology, Chinese Academy of Sciences, where he serves as the Head of Multimodal Cognitive Intelligence at the Technology Center and Deputy Director of the Liaoning Provincial Multimodal Intelligent Perception and Cognitive Engineering Research Center. His research focuses on big data, artificial intelligence, knowledge engineering (knowledge graphs), and multimodal data processing. He has led and participated in over 20 national, provincial, and municipal research projects, including the National Major Scientific Instrument Development Project and the National Key R&amp;amp;D Program. Bihui has published over 40 academic papers in domestic and international conferences and journals, applied for more than 10 national invention patents, and contributed to the development of products such as digital broadcasting terminals, communication scheduling terminals, industrial big data analysis platforms, and knowledge management platforms. He has extensive experience in big data, knowledge engineering, natural language processing, and network communication applications&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Faster and More Efficient Subject Image Generation for Text-to-Image Diffusion Models</title>

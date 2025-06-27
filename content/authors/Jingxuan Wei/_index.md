@@ -8,7 +8,8 @@ last_name: Wei
 
 # Username (this should match the folder name)
 authors:
-  - 魏靖烜
+  - Jingxuan Wei 
+
 
 # Is this the primary user of the site?
 superuser: false
@@ -65,6 +66,6 @@ user_groups:
   
 ---
 
-魏靖烜 is a PhD candidate with research interests in multimodal reasoning, machine translation, and AI for Science. His work focuses on advancing the integration of diverse data modalities and applying artificial intelligence to scientific discovery.
+Jingxuan Wei  is a PhD candidate with research interests in multimodal reasoning, machine translation, and AI for Science. His work focuses on advancing the integration of diverse data modalities and applying artificial intelligence to scientific discovery.
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.

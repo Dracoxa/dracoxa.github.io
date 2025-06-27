@@ -5,20 +5,12 @@
     <link>https://example.com/author/dawei-liu/</link>
       <atom:link href="https://example.com/author/dawei-liu/index.xml" rel="self" type="application/rss+xml" />
     <description>Dawei Liu</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 06 Oct 2024 15:57:35 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
     <image>
-      <url>https://example.com/media/logo_hu_81c9b54ff9ed5c81.png</url>
+      <url>https://example.com/author/dawei-liu/avatar_hu_bb58dca9aa60bbd.png</url>
       <title>Dawei Liu</title>
       <link>https://example.com/author/dawei-liu/</link>
     </image>
-    
-    <item>
-      <title>SAM-Wav2lip&#43;&#43;: Enhancing Behavioral Realism in Synthetic Agents Through Audio-Driven Speech and Action Refinement</title>
-      <link>https://example.com/publication/sam-wav2lip&#43;&#43;-enhancing-behavioral-realism-in-synthetic-agents-through-audio-driven-speech-and-action-refinement/</link>
-      <pubDate>Sun, 06 Oct 2024 15:57:35 +0000</pubDate>
-      <guid>https://example.com/publication/sam-wav2lip&#43;&#43;-enhancing-behavioral-realism-in-synthetic-agents-through-audio-driven-speech-and-action-refinement/</guid>
-      <description></description>
-    </item>
     
   </channel>
 </rss>

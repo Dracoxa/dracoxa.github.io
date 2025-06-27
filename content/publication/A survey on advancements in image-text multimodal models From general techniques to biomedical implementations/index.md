@@ -44,7 +44,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'content/publication/conference-paper/2411.11916v1.pdf'
+# url_pdf: 'content/publication/conference-paper/2411.11916v1.pdf'
 # https://www.sciencedirect.com/science/article/abs/pii/S0010482524007947
 
 

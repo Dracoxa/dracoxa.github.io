@@ -34,10 +34,6 @@
     <lastmod>2025-07-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/author/%E9%AD%8F%E9%9D%96%E7%83%9C/</loc>
-    <lastmod>2025-07-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://example.com/publication-type/article/</loc>
     <lastmod>2025-06-23T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -51,10 +47,6 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://example.com/tag/eeg/</loc>
-    <lastmod>2025-06-23T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://example.com/publication/eegtcw-copy/</loc>
     <lastmod>2025-06-23T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -227,7 +219,13 @@
     <loc>https://example.com/categories/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>https://example.com/author/dawei-liu/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://example.com/author/gaowei-wu/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/author/hexuan-jin/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://example.com/author/mingfei-jin/</loc>

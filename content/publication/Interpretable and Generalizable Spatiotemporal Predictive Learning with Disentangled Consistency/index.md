@@ -44,7 +44,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'content/publication/conference-paper/2411.11916v1.pdf'
+# url_pdf: 'content/publication/conference-paper/2411.11916v1.pdf'
 # https://link.springer.com/chapter/10.1007/978-3-031-70352-2_1
 
 

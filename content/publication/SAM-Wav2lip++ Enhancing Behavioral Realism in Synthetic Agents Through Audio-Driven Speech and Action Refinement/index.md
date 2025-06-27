@@ -43,7 +43,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'content/publication/conference-paper/2411.11916v1.pdf'
+# url_pdf: 'content/publication/conference-paper/2411.11916v1.pdf'
 # https://ieeexplore.ieee.org/document/10832087
 
 
