@@ -1,6 +1,6 @@
 ---
 
-title: 贾彩军
+title: Caijun Jia
 
 
 first_name: Caijun 
@@ -65,6 +65,6 @@ user_groups:
   
 ---
 
-  贾彩军 is a master candidate with research interests in multimodal reasoning, machine translation, and AI for Science. His work focuses on advancing the integration of diverse data modalities and applying artificial intelligence to scientific discovery.
+  Caijun Jia is a master candidate with research interests in multimodal reasoning, machine translation, and AI for Science. His work focuses on advancing the integration of diverse data modalities and applying artificial intelligence to scientific discovery.
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.

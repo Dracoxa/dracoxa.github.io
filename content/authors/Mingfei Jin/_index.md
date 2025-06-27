@@ -1,6 +1,6 @@
 ---
 # Display name
-title: 靳明飞
+title:  Mingfei Jin
 
 # Full name (for SEO)
 first_name: Mingfei
@@ -29,11 +29,11 @@ interests:
   - Reinforcement Learning
   - Reasoning Chains
 
-education:
-  courses:
-    - course: Master
-      institution: 
-      year: 
+# education:
+#   courses:
+#     - course: Master
+#       institution: 
+#       year: 
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons

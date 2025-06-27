@@ -1,6 +1,6 @@
 ---
 # Display name
-title: 张思博
+title: Sibo Zhang
 
 # Full name (for SEO)
 first_name: Sibo 
@@ -8,7 +8,7 @@ last_name: Zhang
 
 # Username (this should match the folder name)
 authors:
-  - 张思博
+  - Sibo Zhang
 
 # Is this the primary user of the site?
 superuser: false
@@ -65,6 +65,6 @@ user_groups:
   
 ---
 
-张思博 is a Master candidate with research interests in multimodal reasoning, machine translation, and AI for Science. His work focuses on advancing the integration of diverse data modalities and applying artificial intelligence to scientific discovery.
+Sibo Zhang is a Master candidate with research interests in multimodal reasoning, machine translation, and AI for Science. His work focuses on advancing the integration of diverse data modalities and applying artificial intelligence to scientific discovery.
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.

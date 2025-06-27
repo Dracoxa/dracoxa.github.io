@@ -1,6 +1,6 @@
 ---
 # Display name
-title: 刘大伟
+title: Dawei Liu
 
 # Full name (for SEO)
 first_name: Liu
@@ -28,11 +28,11 @@ interests:
   - Multimodal Large Language Models (MLLM)
   - Agent
 
-education:
-  courses:
-    - course: Master
-      institution: 
-      year: 
+# education:
+#   courses:
+#     - course: Master
+#       institution: 
+#       year: 
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons

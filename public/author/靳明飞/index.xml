@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>靳明飞 | 多模态认知智能实验室</title>
-    <link>https://example.com/author/%E9%9D%B3%E6%98%8E%E9%A3%9E/</link>
-      <atom:link href="https://example.com/author/%E9%9D%B3%E6%98%8E%E9%A3%9E/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/author/%E9%9D%B3%E6%98%8E%E9%A3%9E/</link>
+      <atom:link href="http://localhost:1313/author/%E9%9D%B3%E6%98%8E%E9%A3%9E/index.xml" rel="self" type="application/rss+xml" />
     <description>靳明飞</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
     <image>
-      <url>https://example.com/media/logo_hu_81c9b54ff9ed5c81.png</url>
+      <url>http://localhost:1313/media/logo_hu_81c9b54ff9ed5c81.png</url>
       <title>靳明飞</title>
-      <link>https://example.com/author/%E9%9D%B3%E6%98%8E%E9%A3%9E/</link>
+      <link>http://localhost:1313/author/%E9%9D%B3%E6%98%8E%E9%A3%9E/</link>
     </image>
     
     <item>
       <title>靳明飞</title>
-      <link>https://example.com/author/%E9%9D%B3%E6%98%8E%E9%A3%9E/</link>
+      <link>http://localhost:1313/author/%E9%9D%B3%E6%98%8E%E9%A3%9E/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.com/author/%E9%9D%B3%E6%98%8E%E9%A3%9E/</guid>
+      <guid>http://localhost:1313/author/%E9%9D%B3%E6%98%8E%E9%A3%9E/</guid>
       <description>&lt;p&gt;Mingfei Jin is a Master candidate with research interests in large language models, reinforcement learning, and reasoning chains. His work focuses on advancing AI reasoning and learning systems.&lt;/p&gt;
 &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.&lt;/p&gt;
 </description>

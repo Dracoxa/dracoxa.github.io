@@ -1,6 +1,6 @@
 ---
 # Display name
-title: 陈奇
+title: Qi Chen
 
 # Full name (for SEO)
 first_name: Qi
@@ -28,11 +28,11 @@ interests:
   - Multimodal Large Language Models (MLLM)
   - Agent
 
-education:
-  courses:
-    - course: Master
-      institution: 
-      year: 
+# education:
+#   courses:
+#     - course: Master
+#       institution: 
+#       year: 
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons

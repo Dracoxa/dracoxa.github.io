@@ -1,6 +1,6 @@
 ---
 # Display name
-title: 伍高巍
+title: Gaowei Wu
 
 # Full name (for SEO)
 first_name: Gaowei
@@ -28,11 +28,11 @@ interests:
   - Agent
   - Retrieval-Augmented Generation (RAG)
 
-education:
-  courses:
-    - course: Master
-      institution: 
-      year: 
+# education:
+#   courses:
+#     - course: Master
+#       institution: 
+#       year: 
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons

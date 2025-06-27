@@ -1,6 +1,6 @@
 ---
 # Display name
-title: 于碧辉
+title:  Bihui Yu
 
 # Full name (for SEO)
 first_name: Bihui
@@ -30,19 +30,19 @@ interests:
   - Knowledge Engineering (Knowledge Graphs)
   - Multimodal Data Processing
 
-education:
-  courses:
-    - course: 研究员
-      institution: 中国科学院沈阳计算技术研究所
-      year: 2019-11 ~ 2024-05， 
-    - courses:
-      course: 副研究员
-      institution: 中国科学院沈阳计算技术研究所
-      year: 2013-12 ~ 2019-11, 
-    - courses:
-    - course: 助理研究员
-      institution: 中国科学院沈阳计算技术研究所,
-      year: 2008-04 ~ 2013-12, 
+# education:
+#   courses:
+#     - course: 研究员
+#       institution: 中国科学院沈阳计算技术研究所
+#       year: 2019-11 ~ 2024-05， 
+#     - courses:
+#       course: 副研究员
+#       institution: 中国科学院沈阳计算技术研究所
+#       year: 2013-12 ~ 2019-11, 
+#     - courses:
+#     - course: 助理研究员
+#       institution: 中国科学院沈阳计算技术研究所,
+#       year: 2008-04 ~ 2013-12, 
 
 
 # Social/Academic Networking

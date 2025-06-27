@@ -1,6 +1,6 @@
 ---
 # Display name
-title: 魏靖烜
+title: Jingxuan Wei 
 
 # Full name (for SEO)
 first_name: Jingxuan

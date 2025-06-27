@@ -1,6 +1,6 @@
 ---
 # Display name
-title: 孙林壮
+title: Linzhuang Sun
 
 # Full name (for SEO)
 first_name: Linzhuang
@@ -69,4 +69,3 @@ user_groups:
 
 Linzhuang Sun is a PhD candidate with research interests in large language models and multimodal large language models. His work focuses on advancing the development and application of these advanced AI technologies.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.!

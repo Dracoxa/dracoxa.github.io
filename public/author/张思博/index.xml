@@ -2,25 +2,15 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>张思博 | 多模态认知智能实验室</title>
-    <link>https://example.com/author/%E5%BC%A0%E6%80%9D%E5%8D%9A/</link>
-      <atom:link href="https://example.com/author/%E5%BC%A0%E6%80%9D%E5%8D%9A/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/author/%E5%BC%A0%E6%80%9D%E5%8D%9A/</link>
+      <atom:link href="http://localhost:1313/author/%E5%BC%A0%E6%80%9D%E5%8D%9A/index.xml" rel="self" type="application/rss+xml" />
     <description>张思博</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 14 Apr 2023 15:57:35 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
     <image>
-      <url>https://example.com/media/logo_hu_81c9b54ff9ed5c81.png</url>
+      <url>http://localhost:1313/media/logo_hu_81c9b54ff9ed5c81.png</url>
       <title>张思博</title>
-      <link>https://example.com/author/%E5%BC%A0%E6%80%9D%E5%8D%9A/</link>
+      <link>http://localhost:1313/author/%E5%BC%A0%E6%80%9D%E5%8D%9A/</link>
     </image>
-    
-    <item>
-      <title>张思博</title>
-      <link>https://example.com/author/%E5%BC%A0%E6%80%9D%E5%8D%9A/</link>
-      <pubDate>Fri, 14 Apr 2023 15:57:35 +0000</pubDate>
-      <guid>https://example.com/author/%E5%BC%A0%E6%80%9D%E5%8D%9A/</guid>
-      <description>&lt;p&gt;张思博 is a Master candidate with research interests in multimodal reasoning, machine translation, and AI for Science. His work focuses on advancing the integration of diverse data modalities and applying artificial intelligence to scientific discovery.&lt;/p&gt;
-&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.&lt;/p&gt;
-</description>
-    </item>
     
   </channel>
 </rss>

@@ -2,15 +2,33 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Caijun Jia | 多模态认知智能实验室</title>
-    <link>http://localhost:1313/author/caijun-jia/</link>
-      <atom:link href="http://localhost:1313/author/caijun-jia/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://example.com/author/caijun-jia/</link>
+      <atom:link href="https://example.com/author/caijun-jia/index.xml" rel="self" type="application/rss+xml" />
     <description>Caijun Jia</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 14 Apr 2025 15:57:35 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/author/caijun-jia/avatar_hu_7de49697710fd3a6.jpeg</url>
+      <url>https://example.com/author/caijun-jia/avatar_hu_7de49697710fd3a6.jpeg</url>
       <title>Caijun Jia</title>
-      <link>http://localhost:1313/author/caijun-jia/</link>
+      <link>https://example.com/author/caijun-jia/</link>
     </image>
+    
+    <item>
+      <title>Caijun Jia</title>
+      <link>https://example.com/author/caijun-jia/</link>
+      <pubDate>Mon, 14 Apr 2025 15:57:35 +0000</pubDate>
+      <guid>https://example.com/author/caijun-jia/</guid>
+      <description>&lt;p&gt;Caijun Jia is a master candidate with research interests in multimodal reasoning, machine translation, and AI for Science. His work focuses on advancing the integration of diverse data modalities and applying artificial intelligence to scientific discovery.&lt;/p&gt;
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>ChartReasoner: Code-Driven Modality Bridging for Long-Chain Reasoning in Chart Question Answering</title>
+      <link>https://example.com/publication/preprint/chartreasoner-code-driven-modality-bridging-for-long-chain-reasoning-in-chart-question-answering/</link>
+      <pubDate>Mon, 14 Apr 2025 15:57:35 +0000</pubDate>
+      <guid>https://example.com/publication/preprint/chartreasoner-code-driven-modality-bridging-for-long-chain-reasoning-in-chart-question-answering/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

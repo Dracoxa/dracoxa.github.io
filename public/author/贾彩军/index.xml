@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>贾彩军 | 多模态认知智能实验室</title>
-    <link>https://example.com/author/%E8%B4%BE%E5%BD%A9%E5%86%9B/</link>
-      <atom:link href="https://example.com/author/%E8%B4%BE%E5%BD%A9%E5%86%9B/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/author/%E8%B4%BE%E5%BD%A9%E5%86%9B/</link>
+      <atom:link href="http://localhost:1313/author/%E8%B4%BE%E5%BD%A9%E5%86%9B/index.xml" rel="self" type="application/rss+xml" />
     <description>贾彩军</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 14 Apr 2025 15:57:35 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/author/%E8%B4%BE%E5%BD%A9%E5%86%9B/avatar_hu_7de49697710fd3a6.jpeg</url>
+      <url>http://localhost:1313/author/%E8%B4%BE%E5%BD%A9%E5%86%9B/avatar_hu_7de49697710fd3a6.jpeg</url>
       <title>贾彩军</title>
-      <link>https://example.com/author/%E8%B4%BE%E5%BD%A9%E5%86%9B/</link>
+      <link>http://localhost:1313/author/%E8%B4%BE%E5%BD%A9%E5%86%9B/</link>
     </image>
     
     <item>
       <title>ChartReasoner: Code-Driven Modality Bridging for Long-Chain Reasoning in Chart Question Answering</title>
-      <link>https://example.com/publication/preprint/chartreasoner-code-driven-modality-bridging-for-long-chain-reasoning-in-chart-question-answering/</link>
+      <link>http://localhost:1313/publication/preprint/chartreasoner-code-driven-modality-bridging-for-long-chain-reasoning-in-chart-question-answering/</link>
       <pubDate>Mon, 14 Apr 2025 15:57:35 +0000</pubDate>
-      <guid>https://example.com/publication/preprint/chartreasoner-code-driven-modality-bridging-for-long-chain-reasoning-in-chart-question-answering/</guid>
+      <guid>http://localhost:1313/publication/preprint/chartreasoner-code-driven-modality-bridging-for-long-chain-reasoning-in-chart-question-answering/</guid>
       <description></description>
     </item>
     
     <item>
       <title>贾彩军</title>
-      <link>https://example.com/author/%E8%B4%BE%E5%BD%A9%E5%86%9B/</link>
+      <link>http://localhost:1313/author/%E8%B4%BE%E5%BD%A9%E5%86%9B/</link>
       <pubDate>Mon, 14 Apr 2025 15:57:35 +0000</pubDate>
-      <guid>https://example.com/author/%E8%B4%BE%E5%BD%A9%E5%86%9B/</guid>
+      <guid>http://localhost:1313/author/%E8%B4%BE%E5%BD%A9%E5%86%9B/</guid>
       <description>&lt;p&gt;贾彩军 is a master candidate with research interests in multimodal reasoning, machine translation, and AI for Science. His work focuses on advancing the integration of diverse data modalities and applying artificial intelligence to scientific discovery.&lt;/p&gt;
 &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.&lt;/p&gt;
 </description>
