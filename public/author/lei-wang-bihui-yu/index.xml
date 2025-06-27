@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Lei Wang, Bihui Yu | 多模态认知智能实验室</title>
-    <link>https://example.com/author/lei-wang-bihui-yu/</link>
-      <atom:link href="https://example.com/author/lei-wang-bihui-yu/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/author/lei-wang-bihui-yu/</link>
+      <atom:link href="http://localhost:1313/author/lei-wang-bihui-yu/index.xml" rel="self" type="application/rss+xml" />
     <description>Lei Wang, Bihui Yu</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 14 Apr 2025 15:57:35 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/logo_hu_81c9b54ff9ed5c81.png</url>
+      <url>http://localhost:1313/media/logo_hu_81c9b54ff9ed5c81.png</url>
       <title>Lei Wang, Bihui Yu</title>
-      <link>https://example.com/author/lei-wang-bihui-yu/</link>
+      <link>http://localhost:1313/author/lei-wang-bihui-yu/</link>
     </image>
     
     <item>
       <title>ChartReasoner: Code-Driven Modality Bridging for Long-Chain Reasoning in Chart Question Answering</title>
-      <link>https://example.com/publication/preprint/chartreasoner-code-driven-modality-bridging-for-long-chain-reasoning-in-chart-question-answering/</link>
+      <link>http://localhost:1313/publication/preprint/chartreasoner-code-driven-modality-bridging-for-long-chain-reasoning-in-chart-question-answering/</link>
       <pubDate>Mon, 14 Apr 2025 15:57:35 +0000</pubDate>
-      <guid>https://example.com/publication/preprint/chartreasoner-code-driven-modality-bridging-for-long-chain-reasoning-in-chart-question-answering/</guid>
+      <guid>http://localhost:1313/publication/preprint/chartreasoner-code-driven-modality-bridging-for-long-chain-reasoning-in-chart-question-answering/</guid>
       <description></description>
     </item>
     

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ruifeng Guo | 多模态认知智能实验室</title>
-    <link>https://example.com/author/ruifeng-guo/</link>
-      <atom:link href="https://example.com/author/ruifeng-guo/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/author/ruifeng-guo/</link>
+      <atom:link href="http://localhost:1313/author/ruifeng-guo/index.xml" rel="self" type="application/rss+xml" />
     <description>Ruifeng Guo</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 03 Jun 2024 15:57:35 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/logo_hu_81c9b54ff9ed5c81.png</url>
+      <url>http://localhost:1313/media/logo_hu_81c9b54ff9ed5c81.png</url>
       <title>Ruifeng Guo</title>
-      <link>https://example.com/author/ruifeng-guo/</link>
+      <link>http://localhost:1313/author/ruifeng-guo/</link>
     </image>
     
     <item>
       <title>A survey on advancements in image-text multimodal models: From general techniques to biomedical implementations</title>
-      <link>https://example.com/publication/conference-paper/a-survey-on-advancements-in-image-text-multimodal-models-from-general-techniques-to-biomedical-implementations/</link>
+      <link>http://localhost:1313/publication/conference-paper/a-survey-on-advancements-in-image-text-multimodal-models-from-general-techniques-to-biomedical-implementations/</link>
       <pubDate>Mon, 03 Jun 2024 15:57:35 +0000</pubDate>
-      <guid>https://example.com/publication/conference-paper/a-survey-on-advancements-in-image-text-multimodal-models-from-general-techniques-to-biomedical-implementations/</guid>
+      <guid>http://localhost:1313/publication/conference-paper/a-survey-on-advancements-in-image-text-multimodal-models-from-general-techniques-to-biomedical-implementations/</guid>
       <description></description>
     </item>
     

@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Zhangyang Gao | 多模态认知智能实验室</title>
-    <link>https://example.com/author/zhangyang-gao/</link>
-      <atom:link href="https://example.com/author/zhangyang-gao/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/author/zhangyang-gao/</link>
+      <atom:link href="http://localhost:1313/author/zhangyang-gao/index.xml" rel="self" type="application/rss+xml" />
     <description>Zhangyang Gao</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 22 Aug 2024 15:57:35 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/logo_hu_81c9b54ff9ed5c81.png</url>
+      <url>http://localhost:1313/media/logo_hu_81c9b54ff9ed5c81.png</url>
       <title>Zhangyang Gao</title>
-      <link>https://example.com/author/zhangyang-gao/</link>
+      <link>http://localhost:1313/author/zhangyang-gao/</link>
     </image>
     
     <item>
       <title>Interpretable and Generalizable Spatiotemporal Predictive Learning with Disentangled Consistency</title>
-      <link>https://example.com/publication/conference-paper/interpretable-and-generalizable-spatiotemporal-predictive-learning-with-disentangled-consistency/</link>
+      <link>http://localhost:1313/publication/conference-paper/interpretable-and-generalizable-spatiotemporal-predictive-learning-with-disentangled-consistency/</link>
       <pubDate>Thu, 22 Aug 2024 15:57:35 +0000</pubDate>
-      <guid>https://example.com/publication/conference-paper/interpretable-and-generalizable-spatiotemporal-predictive-learning-with-disentangled-consistency/</guid>
+      <guid>http://localhost:1313/publication/conference-paper/interpretable-and-generalizable-spatiotemporal-predictive-learning-with-disentangled-consistency/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Boosting the Power of Small Multimodal Reasoning Models to Match Larger Models with Self-Consistency Training</title>
-      <link>https://example.com/publication/conference-paper/boosting-the-power-of-small-multimodal-reasoning-models-to-match-larger-models-with-self-consistency-training/</link>
+      <link>http://localhost:1313/publication/conference-paper/boosting-the-power-of-small-multimodal-reasoning-models-to-match-larger-models-with-self-consistency-training/</link>
       <pubDate>Wed, 03 Jul 2024 02:56:47 +0000</pubDate>
-      <guid>https://example.com/publication/conference-paper/boosting-the-power-of-small-multimodal-reasoning-models-to-match-larger-models-with-self-consistency-training/</guid>
+      <guid>http://localhost:1313/publication/conference-paper/boosting-the-power-of-small-multimodal-reasoning-models-to-match-larger-models-with-self-consistency-training/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Enhancing Human-like Multi-Modal Reasoning: A New Challenging Dataset and Comprehensive Framework</title>
-      <link>https://example.com/publication/conference-paper/enhancing-human-like-multi-modal-reasoning-a-new-challenging-dataset-and-comprehensive-framework/</link>
+      <link>http://localhost:1313/publication/conference-paper/enhancing-human-like-multi-modal-reasoning-a-new-challenging-dataset-and-comprehensive-framework/</link>
       <pubDate>Tue, 25 Jul 2023 15:57:35 +0000</pubDate>
-      <guid>https://example.com/publication/conference-paper/enhancing-human-like-multi-modal-reasoning-a-new-challenging-dataset-and-comprehensive-framework/</guid>
+      <guid>http://localhost:1313/publication/conference-paper/enhancing-human-like-multi-modal-reasoning-a-new-challenging-dataset-and-comprehensive-framework/</guid>
       <description></description>
     </item>
     

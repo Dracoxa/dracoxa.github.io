@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>陈奇 | 多模态认知智能实验室</title>
-    <link>https://example.com/author/%E9%99%88%E5%A5%87/</link>
-      <atom:link href="https://example.com/author/%E9%99%88%E5%A5%87/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/author/%E9%99%88%E5%A5%87/</link>
+      <atom:link href="http://localhost:1313/author/%E9%99%88%E5%A5%87/index.xml" rel="self" type="application/rss+xml" />
     <description>陈奇</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jul 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/logo_hu_81c9b54ff9ed5c81.png</url>
+      <url>http://localhost:1313/media/logo_hu_81c9b54ff9ed5c81.png</url>
       <title>陈奇</title>
-      <link>https://example.com/author/%E9%99%88%E5%A5%87/</link>
+      <link>http://localhost:1313/author/%E9%99%88%E5%A5%87/</link>
     </image>
     
     <item>
       <title>From Words to Structured Visuals: A Benchmark and Framework for Text-to-Diagram Generation and Editing</title>
-      <link>https://example.com/publication/conference-paper/from-words-to-structured/</link>
+      <link>http://localhost:1313/publication/conference-paper/from-words-to-structured/</link>
       <pubDate>Tue, 01 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/conference-paper/from-words-to-structured/</guid>
+      <guid>http://localhost:1313/publication/conference-paper/from-words-to-structured/</guid>
       <description></description>
     </item>
     
     <item>
       <title>陈奇</title>
-      <link>https://example.com/author/%E9%99%88%E5%A5%87/</link>
+      <link>http://localhost:1313/author/%E9%99%88%E5%A5%87/</link>
       <pubDate>Tue, 01 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>https://example.com/author/%E9%99%88%E5%A5%87/</guid>
+      <guid>http://localhost:1313/author/%E9%99%88%E5%A5%87/</guid>
       <description>&lt;p&gt;Qi Chen is a Master candidate with research interests in Multimodal Large Language Models (MLLM) and Agent systems. His work focuses on integrating multimodal data and intelligent agents.&lt;/p&gt;
 &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.&lt;/p&gt;
 </description>
