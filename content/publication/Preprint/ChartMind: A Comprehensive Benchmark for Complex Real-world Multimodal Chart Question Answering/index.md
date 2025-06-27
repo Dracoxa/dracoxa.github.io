@@ -10,7 +10,7 @@ authors:
 - Junnan Zhu
 - Yanni Hao 
 - Gaowei Wu
-- Bihui Yu,
+- Bihui Yu
 - Lei Wang
 
 # Author notes (optional)

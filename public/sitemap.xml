@@ -18,7 +18,15 @@
     <lastmod>2025-07-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/publication/from-words-to-structured/</loc>
+    <loc>https://example.com/publication/conference-paper/from-words-to-structured/</loc>
+    <lastmod>2025-07-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/publication-type/paper-conference/</loc>
+    <lastmod>2025-07-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/publication_types/</loc>
     <lastmod>2025-07-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -46,7 +54,7 @@
     <lastmod>2025-06-23T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/publication/multifaceted-assessment-and/</loc>
+    <loc>https://example.com/publication/conference-paper/multifaceted-assessment-and/</loc>
     <lastmod>2025-06-23T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -58,19 +66,11 @@
     <lastmod>2025-04-14T15:57:35+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/author/bihui-yu/</loc>
-    <lastmod>2025-04-14T15:57:35+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://example.com/publication/preprint/chartmind-a-comprehensive-benchmark-for-complex-real-world-multimodal-chart-question-answering/</loc>
     <lastmod>2025-04-14T15:57:35+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://example.com/publication/preprint/chartreasoner-code-driven-modality-bridging-for-long-chain-reasoning-in-chart-question-answering/</loc>
-    <lastmod>2025-04-14T15:57:35+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://example.com/author/jingxuan-wei/</loc>
     <lastmod>2025-04-14T15:57:35+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -90,15 +90,15 @@
     <lastmod>2025-04-14T15:57:35+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/publication_types/</loc>
-    <lastmod>2025-04-14T15:57:35+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://example.com/author/qingli-wang/</loc>
     <lastmod>2025-04-14T15:57:35+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://example.com/author/yanni-hao/</loc>
+    <lastmod>2025-04-14T15:57:35+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/author/%E4%BA%8E%E7%A2%A7%E8%BE%89/</loc>
     <lastmod>2025-04-14T15:57:35+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -118,11 +118,15 @@
     <lastmod>2025-02-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/publication/faster-and-more-efficient-subject-image-generation-for-text-to-image-diffusion-models/</loc>
+    <loc>https://example.com/publication/conference-paper/faster-and-more-efficient-subject-image-generation-for-text-to-image-diffusion-models/</loc>
     <lastmod>2024-10-06T15:57:35+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://example.com/author/guiyong-chang/</loc>
+    <lastmod>2024-10-06T15:57:35+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/author/jingxuan-wei/</loc>
     <lastmod>2024-10-06T15:57:35+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -134,11 +138,7 @@
     <lastmod>2024-10-06T15:57:35+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/publication/sam-wav2lip&#43;&#43;-enhancing-behavioral-realism-in-synthetic-agents-through-audio-driven-speech-and-action-refinement/</loc>
-    <lastmod>2024-10-06T15:57:35+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://example.com/author/%E4%BA%8E%E7%A2%A7%E8%BE%89/</loc>
+    <loc>https://example.com/publication/conference-paper/sam-wav2lip&#43;&#43;-enhancing-behavioral-realism-in-synthetic-agents-through-audio-driven-speech-and-action-refinement/</loc>
     <lastmod>2024-10-06T15:57:35+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -146,7 +146,7 @@
     <lastmod>2024-10-06T15:57:35+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/publication/interpretable-and-generalizable-spatiotemporal-predictive-learning-with-disentangled-consistency/</loc>
+    <loc>https://example.com/publication/conference-paper/interpretable-and-generalizable-spatiotemporal-predictive-learning-with-disentangled-consistency/</loc>
     <lastmod>2024-08-22T15:57:35+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -154,11 +154,11 @@
     <lastmod>2024-08-22T15:57:35+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/publication/boosting-the-power-of-small-multimodal-reasoning-models-to-match-larger-models-with-self-consistency-training/</loc>
+    <loc>https://example.com/publication/conference-paper/boosting-the-power-of-small-multimodal-reasoning-models-to-match-larger-models-with-self-consistency-training/</loc>
     <lastmod>2024-07-03T02:56:47+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/publication/a-survey-on-advancements-in-image-text-multimodal-models-from-general-techniques-to-biomedical-implementations/</loc>
+    <loc>https://example.com/publication/conference-paper/a-survey-on-advancements-in-image-text-multimodal-models-from-general-techniques-to-biomedical-implementations/</loc>
     <lastmod>2024-06-03T15:57:35+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -166,7 +166,7 @@
     <lastmod>2024-06-03T15:57:35+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/publication/sentence-level-or-token-level-a-comprehensive-study-on-knowledge-distillation/</loc>
+    <loc>https://example.com/publication/conference-paper/sentence-level-or-token-level-a-comprehensive-study-on-knowledge-distillation/</loc>
     <lastmod>2024-04-23T08:29:56+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -174,7 +174,7 @@
     <lastmod>2024-04-23T08:29:56+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/publication/em-cnn-bilstm-causality-extraction-based-on-electra-and-dual-stage-attention-mechanism/</loc>
+    <loc>https://example.com/publication/conference-paper/em-cnn-bilstm-causality-extraction-based-on-electra-and-dual-stage-attention-mechanism/</loc>
     <lastmod>2023-12-08T15:57:35+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -182,11 +182,11 @@
     <lastmod>2023-12-08T15:57:35+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/publication/ted-cs-textual-enhanced-sensitive-video-detection-with-common-sense-knowledge/</loc>
+    <loc>https://example.com/publication/conference-paper/ted-cs-textual-enhanced-sensitive-video-detection-with-common-sense-knowledge/</loc>
     <lastmod>2023-11-05T15:57:35+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/publication/enhancing-human-like-multi-modal-reasoning-a-new-challenging-dataset-and-comprehensive-framework/</loc>
+    <loc>https://example.com/publication/conference-paper/enhancing-human-like-multi-modal-reasoning-a-new-challenging-dataset-and-comprehensive-framework/</loc>
     <lastmod>2023-07-25T15:57:35+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -198,15 +198,15 @@
     <lastmod>2023-04-14T15:57:35+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/publication/a-new-multimodal-video-detection-model-and-dataset/</loc>
+    <loc>https://example.com/publication/conference-paper/a-new-multimodal-video-detection-model-and-dataset/</loc>
     <lastmod>2023-04-14T15:57:35+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/publication/construction-of-sensitive-image-datasets-based-on-generative-methods/</loc>
+    <loc>https://example.com/publication/conference-paper/construction-of-sensitive-image-datasets-based-on-generative-methods/</loc>
     <lastmod>2023-04-14T15:57:35+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/publication/eegtcw-electroencephalogram-based-chinese-words-decoding/</loc>
+    <loc>https://example.com/publication/conference-paper/eegtcw-electroencephalogram-based-chinese-words-decoding/</loc>
     <lastmod>2023-04-14T15:57:35+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -230,7 +230,7 @@
     <lastmod>2023-04-14T15:57:35+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/publication/mmes-improved-mayfly-algorithm-based-on-electrostatic-optimization-algorithm/</loc>
+    <loc>https://example.com/publication/conference-paper/mmes-improved-mayfly-algorithm-based-on-electrostatic-optimization-algorithm/</loc>
     <lastmod>2022-12-09T15:57:35+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -254,11 +254,11 @@
     <lastmod>2022-03-24T15:57:35+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/publication/feature-guided-multimodal-sentiment-analysis-towards-industry-4.0/</loc>
+    <loc>https://example.com/publication/conference-paper/feature-guided-multimodal-sentiment-analysis-towards-industry-4.0/</loc>
     <lastmod>2022-03-24T15:57:35+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/publication/idcnn-crf-based-domain-named-entity-recognition-method/</loc>
+    <loc>https://example.com/publication/conference-paper/idcnn-crf-based-domain-named-entity-recognition-method/</loc>
     <lastmod>2020-10-14T15:57:35+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>

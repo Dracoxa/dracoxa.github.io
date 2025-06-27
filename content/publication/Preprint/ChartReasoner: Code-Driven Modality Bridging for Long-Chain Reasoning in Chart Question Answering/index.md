@@ -7,9 +7,9 @@ title: 'ChartReasoner: Code-Driven Modality Bridging for Long-Chain Reasoning in
 authors:
 - Caijun Jia
 - Nan Xu
-- Jingxuan Wei,
-- Qingli Wang,
-- Lei Wang, Bihui Yu,
+- Jingxuan Wei
+- Qingli Wang
+- Lei Wang, Bihui Yu
 - Junnan Zhu
 
 # Author notes (optional)

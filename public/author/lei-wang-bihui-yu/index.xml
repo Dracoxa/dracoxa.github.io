@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Lei Wang, Bihui Yu, | 多模态认知智能实验室</title>
+    <title>Lei Wang, Bihui Yu | 多模态认知智能实验室</title>
     <link>https://example.com/author/lei-wang-bihui-yu/</link>
       <atom:link href="https://example.com/author/lei-wang-bihui-yu/index.xml" rel="self" type="application/rss+xml" />
-    <description>Lei Wang, Bihui Yu,</description>
+    <description>Lei Wang, Bihui Yu</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 14 Apr 2025 15:57:35 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/logo_hu_81c9b54ff9ed5c81.png</url>
-      <title>Lei Wang, Bihui Yu,</title>
+      <title>Lei Wang, Bihui Yu</title>
       <link>https://example.com/author/lei-wang-bihui-yu/</link>
     </image>
     
