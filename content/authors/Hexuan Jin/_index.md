@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Hexuan Jin
+title: 靳赫烜
 
 # Full name (for SEO)
 first_name: Jin

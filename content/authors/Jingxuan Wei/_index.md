@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Jingxuan Wei 
+title: 魏靖烜
 
 # Full name (for SEO)
 first_name: Jingxuan
@@ -30,11 +30,11 @@ interests:
   - Machine Translation
   - AI for Science
 
-education:
-  courses:
-    - course: PhD
-      institution: 
-      year: 
+# education:
+#   courses:
+#     - course: PhD
+#       institution: 
+#       year: 
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -62,7 +62,7 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Researchers
+  - Principal Investigators
   
 ---
 

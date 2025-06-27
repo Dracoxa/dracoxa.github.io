@@ -1,10 +1,14 @@
 ---
 title: "Multifaceted Assessment and Resolution of Hallucinations in Large Visual-Language Models"
 authors:
-- Jingxuan Wei
+  - Guiyong Chang
+  - Liping Bu
+  - Jingxuan Wei
+  - Linzhuang Sun 
+  - Dawei Liu
 author_notes:
 date: "2025-06-23T00:00:00Z"
-doi: ""
+doi: "10.1109/ICCC62609.2024.10942069"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2025-06-23T00:00:00Z"

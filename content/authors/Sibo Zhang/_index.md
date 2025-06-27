@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Sibo Zhang
+title: 张思博
 
 # Full name (for SEO)
 first_name: Sibo 
@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Phd
+role: Master
 
 # Organizations/Affiliations
 organizations:
@@ -29,11 +29,11 @@ interests:
   - Machine Translation
   - AI for Science
 
-education:
-  courses:
-    - course: PhD
-      institution: 
-      year: 
+# education:
+#   courses:
+#     - course: PhD
+#       institution: 
+#       year: 
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -65,6 +65,6 @@ user_groups:
   
 ---
 
-张思博 is a PhD candidate with research interests in multimodal reasoning, machine translation, and AI for Science. His work focuses on advancing the integration of diverse data modalities and applying artificial intelligence to scientific discovery.
+张思博 is a Master candidate with research interests in multimodal reasoning, machine translation, and AI for Science. His work focuses on advancing the integration of diverse data modalities and applying artificial intelligence to scientific discovery.
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.

@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Bihui Yu
+title: 于碧辉
 
 # Full name (for SEO)
 first_name: Bihui
@@ -45,18 +45,6 @@ education:
       year: 2008-04 ~ 2013-12, 
 
 
-
-
-
-
-      
-
-
-
-
-
-
-
 # Social/Academic Networking
 social:
   - icon: envelope
@@ -78,6 +66,6 @@ email: ''
 
 # Organizational groups that you belong to (for People widget)
 user_groups:
-- Researchers
+- Principal Investigators
 ---
 Bihui Yu is a Researcher and Doctoral Supervisor at the Shenyang Institute of Computing Technology, Chinese Academy of Sciences, where he serves as the Head of Multimodal Cognitive Intelligence at the Technology Center and Deputy Director of the Liaoning Provincial Multimodal Intelligent Perception and Cognitive Engineering Research Center. His research focuses on big data, artificial intelligence, knowledge engineering (knowledge graphs), and multimodal data processing. He has led and participated in over 20 national, provincial, and municipal research projects, including the National Major Scientific Instrument Development Project and the National Key R&D Program. Bihui has published over 40 academic papers in domestic and international conferences and journals, applied for more than 10 national invention patents, and contributed to the development of products such as digital broadcasting terminals, communication scheduling terminals, industrial big data analysis platforms, and knowledge management platforms. He has extensive experience in big data, knowledge engineering, natural language processing, and network communication applications

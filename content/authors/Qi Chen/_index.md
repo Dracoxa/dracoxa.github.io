@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Qi Chen
+title: 陈奇
 
 # Full name (for SEO)
 first_name: Qi

@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Dawei Liu
+title: 刘大伟
 
 # Full name (for SEO)
 first_name: Liu

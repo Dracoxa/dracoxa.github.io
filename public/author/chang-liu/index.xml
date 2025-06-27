@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Chang Liu | 多模态认知智能实验室</title>
-    <link>http://localhost:1313/author/chang-liu/</link>
-      <atom:link href="http://localhost:1313/author/chang-liu/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://example.com/author/chang-liu/</link>
+      <atom:link href="https://example.com/author/chang-liu/index.xml" rel="self" type="application/rss+xml" />
     <description>Chang Liu</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 14 Apr 2023 15:57:35 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/logo_hu_81c9b54ff9ed5c81.png</url>
+      <url>https://example.com/media/logo_hu_81c9b54ff9ed5c81.png</url>
       <title>Chang Liu</title>
-      <link>http://localhost:1313/author/chang-liu/</link>
+      <link>https://example.com/author/chang-liu/</link>
     </image>
     
     <item>
       <title>Construction of Sensitive Image Datasets Based on Generative Methods</title>
-      <link>http://localhost:1313/publication/construction-of-sensitive-image-datasets-based-on-generative-methods/</link>
+      <link>https://example.com/publication/construction-of-sensitive-image-datasets-based-on-generative-methods/</link>
       <pubDate>Fri, 14 Apr 2023 15:57:35 +0000</pubDate>
-      <guid>http://localhost:1313/publication/construction-of-sensitive-image-datasets-based-on-generative-methods/</guid>
+      <guid>https://example.com/publication/construction-of-sensitive-image-datasets-based-on-generative-methods/</guid>
       <description></description>
     </item>
     

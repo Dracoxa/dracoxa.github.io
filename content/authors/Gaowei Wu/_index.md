@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Gaowei Wu
+title: 伍高巍
 
 # Full name (for SEO)
 first_name: Gaowei

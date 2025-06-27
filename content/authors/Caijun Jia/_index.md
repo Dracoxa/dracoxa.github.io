@@ -1,6 +1,6 @@
 ---
 
-title: Caijun Jia
+title: 贾彩军
 
 
 first_name: Caijun 
@@ -8,7 +8,7 @@ last_name:  Jia
 
 
 authors:
-  - 贾彩军
+  - Caijun Jia
 
 
 superuser: false

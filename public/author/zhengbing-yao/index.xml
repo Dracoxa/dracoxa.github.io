@@ -20,5 +20,15 @@
       <description></description>
     </item>
     
+    <item>
+      <title>Zhengbing Yao</title>
+      <link>http://localhost:1313/author/zhengbing-yao/</link>
+      <pubDate>Sun, 06 Oct 2024 15:57:35 +0000</pubDate>
+      <guid>http://localhost:1313/author/zhengbing-yao/</guid>
+      <description>&lt;p&gt;张思博 is a PhD candidate with research interests in multimodal reasoning, machine translation, and AI for Science. His work focuses on advancing the integration of diverse data modalities and applying artificial intelligence to scientific discovery.&lt;/p&gt;
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.&lt;/p&gt;
+</description>
+    </item>
+    
   </channel>
 </rss>

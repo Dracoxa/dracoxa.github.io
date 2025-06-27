@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Guiyong Chang, | 多模态认知智能实验室</title>
+    <link>https://example.com/author/guiyong-chang/</link>
+      <atom:link href="https://example.com/author/guiyong-chang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Guiyong Chang,</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 06 Oct 2024 15:57:35 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/logo_hu_81c9b54ff9ed5c81.png</url>
+      <title>Guiyong Chang,</title>
+      <link>https://example.com/author/guiyong-chang/</link>
+    </image>
+    
+    <item>
+      <title>SAM-Wav2lip&#43;&#43;: Enhancing Behavioral Realism in Synthetic Agents Through Audio-Driven Speech and Action Refinement</title>
+      <link>https://example.com/publication/sam-wav2lip&#43;&#43;-enhancing-behavioral-realism-in-synthetic-agents-through-audio-driven-speech-and-action-refinement/</link>
+      <pubDate>Sun, 06 Oct 2024 15:57:35 +0000</pubDate>
+      <guid>https://example.com/publication/sam-wav2lip&#43;&#43;-enhancing-behavioral-realism-in-synthetic-agents-through-audio-driven-speech-and-action-refinement/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

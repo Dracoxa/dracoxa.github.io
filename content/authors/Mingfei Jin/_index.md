@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Mingfei Jin
+title: 靳明飞
 
 # Full name (for SEO)
 first_name: Mingfei
