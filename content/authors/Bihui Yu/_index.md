@@ -26,9 +26,9 @@ bio: My research interests include big data, artificial intelligence, knowledge 
 
 interests:
   - Big Data
-  - Artificial Intelligence
-  - Knowledge Engineering (Knowledge Graphs)
   - Multimodal Data Processing
+  - Artificial Intelligence
+  
 
 # education:
 #   courses:

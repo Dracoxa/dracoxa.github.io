@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Liping Bu | 多模态认知智能实验室</title>
-    <link>https://example.com/author/liping-bu/</link>
-      <atom:link href="https://example.com/author/liping-bu/index.xml" rel="self" type="application/rss+xml" />
-    <description>Liping Bu</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 23 Jun 2025 00:00:00 +0000</lastBuildDate>
+    <title>Liping Bu, | 多模态认知智能实验室</title>
+    <link>http://localhost:1313/author/liping-bu/</link>
+      <atom:link href="http://localhost:1313/author/liping-bu/index.xml" rel="self" type="application/rss+xml" />
+    <description>Liping Bu,</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 06 Oct 2024 15:57:35 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/logo_hu_81c9b54ff9ed5c81.png</url>
-      <title>Liping Bu</title>
-      <link>https://example.com/author/liping-bu/</link>
+      <url>http://localhost:1313/media/icon_hu_e368a5d79bca84d.png</url>
+      <title>Liping Bu,</title>
+      <link>http://localhost:1313/author/liping-bu/</link>
     </image>
     
     <item>
-      <title>Multifaceted Assessment and Resolution of Hallucinations in Large Visual-Language Models</title>
-      <link>https://example.com/publication/conference-paper/multifaceted-assessment-and/</link>
-      <pubDate>Mon, 23 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/conference-paper/multifaceted-assessment-and/</guid>
+      <title>SAM-Wav2lip&#43;&#43;: Enhancing Behavioral Realism in Synthetic Agents Through Audio-Driven Speech and Action Refinement</title>
+      <link>http://localhost:1313/publication/conference-paper/sam-wav2lip&#43;&#43;-enhancing-behavioral-realism-in-synthetic-agents-through-audio-driven-speech-and-action-refinement/</link>
+      <pubDate>Sun, 06 Oct 2024 15:57:35 +0000</pubDate>
+      <guid>http://localhost:1313/publication/conference-paper/sam-wav2lip&#43;&#43;-enhancing-behavioral-realism-in-synthetic-agents-through-audio-driven-speech-and-action-refinement/</guid>
       <description></description>
     </item>
     

@@ -2,165 +2,85 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Publications | 多模态认知智能实验室</title>
-    <link>https://example.com/publication/</link>
-      <atom:link href="https://example.com/publication/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/publication/</link>
+      <atom:link href="http://localhost:1313/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jul 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/logo_hu_81c9b54ff9ed5c81.png</url>
+      <url>http://localhost:1313/media/icon_hu_e368a5d79bca84d.png</url>
       <title>Publications</title>
-      <link>https://example.com/publication/</link>
+      <link>http://localhost:1313/publication/</link>
     </image>
     
     <item>
       <title>From Words to Structured Visuals: A Benchmark and Framework for Text-to-Diagram Generation and Editing</title>
-      <link>https://example.com/publication/conference-paper/from-words-to-structured/</link>
+      <link>http://localhost:1313/publication/conference-paper/from-words-to-structured/</link>
       <pubDate>Tue, 01 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/conference-paper/from-words-to-structured/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Multifaceted Assessment and Resolution of Hallucinations in Large Visual-Language Models</title>
-      <link>https://example.com/publication/conference-paper/multifaceted-assessment-and/</link>
-      <pubDate>Mon, 23 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/conference-paper/multifaceted-assessment-and/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>ChartReasoner: Code-Driven Modality Bridging for Long-Chain Reasoning in Chart Question Answering</title>
-      <link>https://example.com/publication/preprint/chartmind-a-comprehensive-benchmark-for-complex-real-world-multimodal-chart-question-answering/</link>
-      <pubDate>Mon, 14 Apr 2025 15:57:35 +0000</pubDate>
-      <guid>https://example.com/publication/preprint/chartmind-a-comprehensive-benchmark-for-complex-real-world-multimodal-chart-question-answering/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>ChartReasoner: Code-Driven Modality Bridging for Long-Chain Reasoning in Chart Question Answering</title>
-      <link>https://example.com/publication/preprint/chartreasoner-code-driven-modality-bridging-for-long-chain-reasoning-in-chart-question-answering/</link>
-      <pubDate>Mon, 14 Apr 2025 15:57:35 +0000</pubDate>
-      <guid>https://example.com/publication/preprint/chartreasoner-code-driven-modality-bridging-for-long-chain-reasoning-in-chart-question-answering/</guid>
+      <guid>http://localhost:1313/publication/conference-paper/from-words-to-structured/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Faster and More Efficient Subject Image Generation for Text-to-Image Diffusion Models</title>
-      <link>https://example.com/publication/conference-paper/faster-and-more-efficient-subject-image-generation-for-text-to-image-diffusion-models/</link>
+      <link>http://localhost:1313/publication/conference-paper/faster-and-more-efficient-subject-image-generation-for-text-to-image-diffusion-models/</link>
       <pubDate>Sun, 06 Oct 2024 15:57:35 +0000</pubDate>
-      <guid>https://example.com/publication/conference-paper/faster-and-more-efficient-subject-image-generation-for-text-to-image-diffusion-models/</guid>
+      <guid>http://localhost:1313/publication/conference-paper/faster-and-more-efficient-subject-image-generation-for-text-to-image-diffusion-models/</guid>
       <description></description>
     </item>
     
     <item>
       <title>SAM-Wav2lip&#43;&#43;: Enhancing Behavioral Realism in Synthetic Agents Through Audio-Driven Speech and Action Refinement</title>
-      <link>https://example.com/publication/conference-paper/sam-wav2lip&#43;&#43;-enhancing-behavioral-realism-in-synthetic-agents-through-audio-driven-speech-and-action-refinement/</link>
+      <link>http://localhost:1313/publication/conference-paper/sam-wav2lip&#43;&#43;-enhancing-behavioral-realism-in-synthetic-agents-through-audio-driven-speech-and-action-refinement/</link>
       <pubDate>Sun, 06 Oct 2024 15:57:35 +0000</pubDate>
-      <guid>https://example.com/publication/conference-paper/sam-wav2lip&#43;&#43;-enhancing-behavioral-realism-in-synthetic-agents-through-audio-driven-speech-and-action-refinement/</guid>
+      <guid>http://localhost:1313/publication/conference-paper/sam-wav2lip&#43;&#43;-enhancing-behavioral-realism-in-synthetic-agents-through-audio-driven-speech-and-action-refinement/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Interpretable and Generalizable Spatiotemporal Predictive Learning with Disentangled Consistency</title>
-      <link>https://example.com/publication/conference-paper/interpretable-and-generalizable-spatiotemporal-predictive-learning-with-disentangled-consistency/</link>
+      <link>http://localhost:1313/publication/conference-paper/interpretable-and-generalizable-spatiotemporal-predictive-learning-with-disentangled-consistency/</link>
       <pubDate>Thu, 22 Aug 2024 15:57:35 +0000</pubDate>
-      <guid>https://example.com/publication/conference-paper/interpretable-and-generalizable-spatiotemporal-predictive-learning-with-disentangled-consistency/</guid>
+      <guid>http://localhost:1313/publication/conference-paper/interpretable-and-generalizable-spatiotemporal-predictive-learning-with-disentangled-consistency/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Boosting the Power of Small Multimodal Reasoning Models to Match Larger Models with Self-Consistency Training</title>
-      <link>https://example.com/publication/conference-paper/boosting-the-power-of-small-multimodal-reasoning-models-to-match-larger-models-with-self-consistency-training/</link>
+      <link>http://localhost:1313/publication/conference-paper/boosting-the-power-of-small-multimodal-reasoning-models-to-match-larger-models-with-self-consistency-training/</link>
       <pubDate>Wed, 03 Jul 2024 02:56:47 +0000</pubDate>
-      <guid>https://example.com/publication/conference-paper/boosting-the-power-of-small-multimodal-reasoning-models-to-match-larger-models-with-self-consistency-training/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>A survey on advancements in image-text multimodal models: From general techniques to biomedical implementations</title>
-      <link>https://example.com/publication/conference-paper/a-survey-on-advancements-in-image-text-multimodal-models-from-general-techniques-to-biomedical-implementations/</link>
-      <pubDate>Mon, 03 Jun 2024 15:57:35 +0000</pubDate>
-      <guid>https://example.com/publication/conference-paper/a-survey-on-advancements-in-image-text-multimodal-models-from-general-techniques-to-biomedical-implementations/</guid>
+      <guid>http://localhost:1313/publication/conference-paper/boosting-the-power-of-small-multimodal-reasoning-models-to-match-larger-models-with-self-consistency-training/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Sentence-Level or Token-Level: A Comprehensive Study on Knowledge Distillation</title>
-      <link>https://example.com/publication/conference-paper/sentence-level-or-token-level-a-comprehensive-study-on-knowledge-distillation/</link>
+      <link>http://localhost:1313/publication/conference-paper/sentence-level-or-token-level-a-comprehensive-study-on-knowledge-distillation/</link>
       <pubDate>Tue, 23 Apr 2024 08:29:56 +0000</pubDate>
-      <guid>https://example.com/publication/conference-paper/sentence-level-or-token-level-a-comprehensive-study-on-knowledge-distillation/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>EM-CNN-BiLSTM: Causality extraction based on Electra and Dual-Stage Attention Mechanism</title>
-      <link>https://example.com/publication/conference-paper/em-cnn-bilstm-causality-extraction-based-on-electra-and-dual-stage-attention-mechanism/</link>
-      <pubDate>Fri, 08 Dec 2023 15:57:35 +0000</pubDate>
-      <guid>https://example.com/publication/conference-paper/em-cnn-bilstm-causality-extraction-based-on-electra-and-dual-stage-attention-mechanism/</guid>
+      <guid>http://localhost:1313/publication/conference-paper/sentence-level-or-token-level-a-comprehensive-study-on-knowledge-distillation/</guid>
       <description></description>
     </item>
     
     <item>
       <title>TED-CS: Textual Enhanced Sensitive Video Detection with Common Sense Knowledge</title>
-      <link>https://example.com/publication/conference-paper/ted-cs-textual-enhanced-sensitive-video-detection-with-common-sense-knowledge/</link>
+      <link>http://localhost:1313/publication/conference-paper/ted-cs-textual-enhanced-sensitive-video-detection-with-common-sense-knowledge/</link>
       <pubDate>Sun, 05 Nov 2023 15:57:35 +0000</pubDate>
-      <guid>https://example.com/publication/conference-paper/ted-cs-textual-enhanced-sensitive-video-detection-with-common-sense-knowledge/</guid>
+      <guid>http://localhost:1313/publication/conference-paper/ted-cs-textual-enhanced-sensitive-video-detection-with-common-sense-knowledge/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Enhancing Human-like Multi-Modal Reasoning: A New Challenging Dataset and Comprehensive Framework</title>
-      <link>https://example.com/publication/conference-paper/enhancing-human-like-multi-modal-reasoning-a-new-challenging-dataset-and-comprehensive-framework/</link>
+      <link>http://localhost:1313/publication/conference-paper/enhancing-human-like-multi-modal-reasoning-a-new-challenging-dataset-and-comprehensive-framework/</link>
       <pubDate>Tue, 25 Jul 2023 15:57:35 +0000</pubDate>
-      <guid>https://example.com/publication/conference-paper/enhancing-human-like-multi-modal-reasoning-a-new-challenging-dataset-and-comprehensive-framework/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Construction of Sensitive Image Datasets Based on Generative Methods</title>
-      <link>https://example.com/publication/conference-paper/a-new-multimodal-video-detection-model-and-dataset/</link>
-      <pubDate>Fri, 14 Apr 2023 15:57:35 +0000</pubDate>
-      <guid>https://example.com/publication/conference-paper/a-new-multimodal-video-detection-model-and-dataset/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Construction of Sensitive Image Datasets Based on Generative Methods</title>
-      <link>https://example.com/publication/conference-paper/construction-of-sensitive-image-datasets-based-on-generative-methods/</link>
-      <pubDate>Fri, 14 Apr 2023 15:57:35 +0000</pubDate>
-      <guid>https://example.com/publication/conference-paper/construction-of-sensitive-image-datasets-based-on-generative-methods/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>EEGTCW: Electroencephalogram-based Chinese Words Decoding</title>
-      <link>https://example.com/publication/conference-paper/eegtcw-electroencephalogram-based-chinese-words-decoding/</link>
-      <pubDate>Fri, 14 Apr 2023 15:57:35 +0000</pubDate>
-      <guid>https://example.com/publication/conference-paper/eegtcw-electroencephalogram-based-chinese-words-decoding/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>MMES: Improved Mayfly Algorithm Based on Electrostatic Optimization Algorithm</title>
-      <link>https://example.com/publication/conference-paper/mmes-improved-mayfly-algorithm-based-on-electrostatic-optimization-algorithm/</link>
-      <pubDate>Fri, 09 Dec 2022 15:57:35 +0000</pubDate>
-      <guid>https://example.com/publication/conference-paper/mmes-improved-mayfly-algorithm-based-on-electrostatic-optimization-algorithm/</guid>
+      <guid>http://localhost:1313/publication/conference-paper/enhancing-human-like-multi-modal-reasoning-a-new-challenging-dataset-and-comprehensive-framework/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Feature-guided Multimodal Sentiment Analysis towards Industry 4.0</title>
-      <link>https://example.com/publication/conference-paper/feature-guided-multimodal-sentiment-analysis-towards-industry-4.0/</link>
+      <link>http://localhost:1313/publication/conference-paper/feature-guided-multimodal-sentiment-analysis-towards-industry-4.0/</link>
       <pubDate>Thu, 24 Mar 2022 15:57:35 +0000</pubDate>
-      <guid>https://example.com/publication/conference-paper/feature-guided-multimodal-sentiment-analysis-towards-industry-4.0/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>IDCNN-CRF-based domain named entity recognition method</title>
-      <link>https://example.com/publication/conference-paper/idcnn-crf-based-domain-named-entity-recognition-method/</link>
-      <pubDate>Wed, 14 Oct 2020 15:57:35 +0000</pubDate>
-      <guid>https://example.com/publication/conference-paper/idcnn-crf-based-domain-named-entity-recognition-method/</guid>
+      <guid>http://localhost:1313/publication/conference-paper/feature-guided-multimodal-sentiment-analysis-towards-industry-4.0/</guid>
       <description></description>
     </item>
     

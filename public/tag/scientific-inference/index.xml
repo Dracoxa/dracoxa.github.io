@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Scientific Inference | 多模态认知智能实验室</title>
+    <link>http://localhost:1313/tag/scientific-inference/</link>
+      <atom:link href="http://localhost:1313/tag/scientific-inference/index.xml" rel="self" type="application/rss+xml" />
+    <description>Scientific Inference</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 20 Oct 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu_e368a5d79bca84d.png</url>
+      <title>Scientific Inference</title>
+      <link>http://localhost:1313/tag/scientific-inference/</link>
+    </image>
+    
+    <item>
+      <title>ResearchPulse Paper Accepted at ACM MM 2025</title>
+      <link>http://localhost:1313/event/aclmm/</link>
+      <pubDate>Mon, 20 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/event/aclmm/</guid>
+      <description>&lt;!-- 
+Slides can be added in a few ways:
+
+- **Create** slides using Wowchemy&#39;s [_Slides_](https://docs.hugoblox.com/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
+- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
+- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://docs.hugoblox.com/writing-markdown-latex/).
+
+Further event details, including page elements such as image galleries, can be added to the body of this page. --&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
