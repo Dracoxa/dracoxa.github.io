@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>CCF-A | 多模态认知智能实验室</title>
-    <link>http://localhost:1313/tag/ccf-a/</link>
-      <atom:link href="http://localhost:1313/tag/ccf-a/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://dracoxa.github.io/tag/ccf-a/</link>
+      <atom:link href="https://dracoxa.github.io/tag/ccf-a/index.xml" rel="self" type="application/rss+xml" />
     <description>CCF-A</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 20 Oct 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu_e368a5d79bca84d.png</url>
+      <url>https://dracoxa.github.io/media/icon_hu_e368a5d79bca84d.png</url>
       <title>CCF-A</title>
-      <link>http://localhost:1313/tag/ccf-a/</link>
+      <link>https://dracoxa.github.io/tag/ccf-a/</link>
     </image>
     
     <item>
       <title>ResearchPulse Paper Accepted at ACM MM 2025</title>
-      <link>http://localhost:1313/event/aclmm/</link>
+      <link>https://dracoxa.github.io/event/aclmm/</link>
       <pubDate>Mon, 20 Oct 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/event/aclmm/</guid>
+      <guid>https://dracoxa.github.io/event/aclmm/</guid>
       <description>&lt;!-- 
 Slides can be added in a few ways:
 
@@ -30,9 +30,9 @@ Further event details, including page elements such as image galleries, can be a
     
     <item>
       <title>MM-Verify Paper Accepted at ACL 2025</title>
-      <link>http://localhost:1313/event/acl2025/</link>
+      <link>https://dracoxa.github.io/event/acl2025/</link>
       <pubDate>Wed, 30 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/event/acl2025/</guid>
+      <guid>https://dracoxa.github.io/event/acl2025/</guid>
       <description>&lt;!-- 
 Slides can be added in a few ways:
 
@@ -46,9 +46,9 @@ Further event details, including page elements such as image galleries, can be a
     
     <item>
       <title>From Words to Structured Visuals Paper Accepted at CVPR 2025</title>
-      <link>http://localhost:1313/event/cvpr/</link>
+      <link>https://dracoxa.github.io/event/cvpr/</link>
       <pubDate>Wed, 11 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/event/cvpr/</guid>
+      <guid>https://dracoxa.github.io/event/cvpr/</guid>
       <description></description>
     </item>
     

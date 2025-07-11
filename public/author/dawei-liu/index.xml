@@ -2,38 +2,15 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Dawei Liu | 多模态认知智能实验室</title>
-    <link>http://localhost:1313/author/dawei-liu/</link>
-      <atom:link href="http://localhost:1313/author/dawei-liu/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://dracoxa.github.io/author/dawei-liu/</link>
+      <atom:link href="https://dracoxa.github.io/author/dawei-liu/index.xml" rel="self" type="application/rss+xml" />
     <description>Dawei Liu</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
     <image>
-      <url>http://localhost:1313/author/dawei-liu/avatar_hu_bb58dca9aa60bbd.png</url>
+      <url>https://dracoxa.github.io/author/dawei-liu/avatar_hu_bb58dca9aa60bbd.png</url>
       <title>Dawei Liu</title>
-      <link>http://localhost:1313/author/dawei-liu/</link>
+      <link>https://dracoxa.github.io/author/dawei-liu/</link>
     </image>
-    
-  </channel>
-</rss>
-iu/</link>
-    </image>
-    
-    <item>
-      <title>SAM-Wav2lip&#43;&#43;: Enhancing Behavioral Realism in Synthetic Agents Through Audio-Driven Speech and Action Refinement</title>
-      <link>http://localhost:1313/publication/conference-paper/sam-wav2lip&#43;&#43;-enhancing-behavioral-realism-in-synthetic-agents-through-audio-driven-speech-and-action-refinement/</link>
-      <pubDate>Sun, 06 Oct 2024 15:57:35 +0000</pubDate>
-      <guid>http://localhost:1313/publication/conference-paper/sam-wav2lip&#43;&#43;-enhancing-behavioral-realism-in-synthetic-agents-through-audio-driven-speech-and-action-refinement/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Dawei Liu</title>
-      <link>http://localhost:1313/author/dawei-liu/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/author/dawei-liu/</guid>
-      <description>&lt;p&gt;Dawei Liu is a Master candidate with research interests iMultimodal Generation and Digital Human. His work focuses on integrating multimodal data and intelligent agents.&lt;/p&gt;
-&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.&lt;/p&gt;
-</description>
-    </item>
     
   </channel>
 </rss>

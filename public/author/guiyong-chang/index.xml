@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Guiyong Chang, | 多模态认知智能实验室</title>
-    <link>http://localhost:1313/author/guiyong-chang/</link>
-      <atom:link href="http://localhost:1313/author/guiyong-chang/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://dracoxa.github.io/author/guiyong-chang/</link>
+      <atom:link href="https://dracoxa.github.io/author/guiyong-chang/index.xml" rel="self" type="application/rss+xml" />
     <description>Guiyong Chang,</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 06 Oct 2024 15:57:35 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu_e368a5d79bca84d.png</url>
+      <url>https://dracoxa.github.io/media/icon_hu_e368a5d79bca84d.png</url>
       <title>Guiyong Chang,</title>
-      <link>http://localhost:1313/author/guiyong-chang/</link>
+      <link>https://dracoxa.github.io/author/guiyong-chang/</link>
     </image>
     
     <item>
       <title>SAM-Wav2lip&#43;&#43;: Enhancing Behavioral Realism in Synthetic Agents Through Audio-Driven Speech and Action Refinement</title>
-      <link>http://localhost:1313/publication/conference-paper/sam-wav2lip&#43;&#43;-enhancing-behavioral-realism-in-synthetic-agents-through-audio-driven-speech-and-action-refinement/</link>
+      <link>https://dracoxa.github.io/publication/conference-paper/sam-wav2lip&#43;&#43;-enhancing-behavioral-realism-in-synthetic-agents-through-audio-driven-speech-and-action-refinement/</link>
       <pubDate>Sun, 06 Oct 2024 15:57:35 +0000</pubDate>
-      <guid>http://localhost:1313/publication/conference-paper/sam-wav2lip&#43;&#43;-enhancing-behavioral-realism-in-synthetic-agents-through-audio-driven-speech-and-action-refinement/</guid>
+      <guid>https://dracoxa.github.io/publication/conference-paper/sam-wav2lip&#43;&#43;-enhancing-behavioral-realism-in-synthetic-agents-through-audio-driven-speech-and-action-refinement/</guid>
       <description></description>
     </item>
     

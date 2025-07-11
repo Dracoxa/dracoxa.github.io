@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Qi Chen | 多模态认知智能实验室</title>
-    <link>http://localhost:1313/author/qi-chen/</link>
-      <atom:link href="http://localhost:1313/author/qi-chen/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://dracoxa.github.io/author/qi-chen/</link>
+      <atom:link href="https://dracoxa.github.io/author/qi-chen/index.xml" rel="self" type="application/rss+xml" />
     <description>Qi Chen</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 20 Oct 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/author/qi-chen/avatar_hu_2878f2f9d7dd97c9.png</url>
+      <url>https://dracoxa.github.io/author/qi-chen/avatar_hu_2878f2f9d7dd97c9.png</url>
       <title>Qi Chen</title>
-      <link>http://localhost:1313/author/qi-chen/</link>
+      <link>https://dracoxa.github.io/author/qi-chen/</link>
     </image>
     
     <item>
       <title>Qi Chen</title>
-      <link>http://localhost:1313/author/qi-chen/</link>
+      <link>https://dracoxa.github.io/author/qi-chen/</link>
       <pubDate>Mon, 20 Oct 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/author/qi-chen/</guid>
+      <guid>https://dracoxa.github.io/author/qi-chen/</guid>
       <description>&lt;p&gt;Qi Chen is a Master candidate with research interests in Multimodal Large Language Models (MLLM) and Agent systems. His work focuses on integrating multimodal data and intelligent agents.&lt;/p&gt;
 &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.&lt;/p&gt;
 </description>
@@ -24,9 +24,9 @@
     
     <item>
       <title>ResearchPulse Paper Accepted at ACM MM 2025</title>
-      <link>http://localhost:1313/event/aclmm/</link>
+      <link>https://dracoxa.github.io/event/aclmm/</link>
       <pubDate>Mon, 20 Oct 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/event/aclmm/</guid>
+      <guid>https://dracoxa.github.io/event/aclmm/</guid>
       <description>&lt;!-- 
 Slides can be added in a few ways:
 
@@ -40,17 +40,17 @@ Further event details, including page elements such as image galleries, can be a
     
     <item>
       <title>From Words to Structured Visuals: A Benchmark and Framework for Text-to-Diagram Generation and Editing</title>
-      <link>http://localhost:1313/publication/conference-paper/from-words-to-structured/</link>
+      <link>https://dracoxa.github.io/publication/conference-paper/from-words-to-structured/</link>
       <pubDate>Tue, 01 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/conference-paper/from-words-to-structured/</guid>
+      <guid>https://dracoxa.github.io/publication/conference-paper/from-words-to-structured/</guid>
       <description></description>
     </item>
     
     <item>
       <title>From Words to Structured Visuals Paper Accepted at CVPR 2025</title>
-      <link>http://localhost:1313/event/cvpr/</link>
+      <link>https://dracoxa.github.io/event/cvpr/</link>
       <pubDate>Wed, 11 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/event/cvpr/</guid>
+      <guid>https://dracoxa.github.io/event/cvpr/</guid>
       <description></description>
     </item>
     

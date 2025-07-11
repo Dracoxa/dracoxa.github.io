@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>首页 | 多模态认知智能实验室</title>
-    <link>http://localhost:1313/</link>
-      <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://dracoxa.github.io/</link>
+      <atom:link href="https://dracoxa.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>首页</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 20 Oct 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu_e368a5d79bca84d.png</url>
+      <url>https://dracoxa.github.io/media/icon_hu_e368a5d79bca84d.png</url>
       <title>首页</title>
-      <link>http://localhost:1313/</link>
+      <link>https://dracoxa.github.io/</link>
     </image>
     
     <item>
       <title>ResearchPulse Paper Accepted at ACM MM 2025</title>
-      <link>http://localhost:1313/event/aclmm/</link>
+      <link>https://dracoxa.github.io/event/aclmm/</link>
       <pubDate>Mon, 20 Oct 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/event/aclmm/</guid>
+      <guid>https://dracoxa.github.io/event/aclmm/</guid>
       <description>&lt;!-- 
 Slides can be added in a few ways:
 
@@ -30,9 +30,9 @@ Further event details, including page elements such as image galleries, can be a
     
     <item>
       <title>MM-Verify Paper Accepted at ACL 2025</title>
-      <link>http://localhost:1313/event/acl2025/</link>
+      <link>https://dracoxa.github.io/event/acl2025/</link>
       <pubDate>Wed, 30 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/event/acl2025/</guid>
+      <guid>https://dracoxa.github.io/event/acl2025/</guid>
       <description>&lt;!-- 
 Slides can be added in a few ways:
 
@@ -46,25 +46,25 @@ Further event details, including page elements such as image galleries, can be a
     
     <item>
       <title>From Words to Structured Visuals: A Benchmark and Framework for Text-to-Diagram Generation and Editing</title>
-      <link>http://localhost:1313/publication/conference-paper/from-words-to-structured/</link>
+      <link>https://dracoxa.github.io/publication/conference-paper/from-words-to-structured/</link>
       <pubDate>Tue, 01 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/conference-paper/from-words-to-structured/</guid>
+      <guid>https://dracoxa.github.io/publication/conference-paper/from-words-to-structured/</guid>
       <description></description>
     </item>
     
     <item>
       <title>From Words to Structured Visuals Paper Accepted at CVPR 2025</title>
-      <link>http://localhost:1313/event/cvpr/</link>
+      <link>https://dracoxa.github.io/event/cvpr/</link>
       <pubDate>Wed, 11 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/event/cvpr/</guid>
+      <guid>https://dracoxa.github.io/event/cvpr/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Congratulations on CVPR 2025 Publication</title>
-      <link>http://localhost:1313/post/congratulations-on-cvpr-2025-publication/</link>
+      <link>https://dracoxa.github.io/post/congratulations-on-cvpr-2025-publication/</link>
       <pubDate>Thu, 27 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/congratulations-on-cvpr-2025-publication/</guid>
+      <guid>https://dracoxa.github.io/post/congratulations-on-cvpr-2025-publication/</guid>
       <description>&lt;p&gt;中国科学院沈阳计算所多模态认知智能团队“From Words to Structured Visuals: A Benchmark and Framework for Text-to-Diagram Generation and Editing”文章被计算机视觉与模式识别会议(CVPR 2025)接受，CVPR是计算机视觉领域最具权威、最高水平、最具影响力的国际顶级学术会议之一，为CCF A类会议。&lt;/p&gt;
 &lt;p&gt;We are excited to celebrate the acceptance of the paper &amp;ldquo;From Words to Structured Visuals: A Benchmark and Framework for Text-to-Diagram Generation and Editing&amp;rdquo; by Jingxuan Wei, Cheng Tan, Qi Chen, Gaowei Wu, Siyuan Li, Zhangyang Gao, Linzhuang Sun, Bihui Yu, and Ruifeng Guo at CVPR 2025!&lt;/p&gt;
 &lt;p&gt;This innovative work  presents a pioneering benchmark and framework for text-to-diagram generation and editing. The paper introduces a comprehensive approach to transforming textual descriptions into structured visual diagrams, addressing challenges in automated diagram creation and iterative editing. By establishing a new benchmark, the authors provide a robust evaluation platform for future research in this interdisciplinary domain of computer vision and natural language processing. Their framework leverages advanced techniques to enable precise, context-aware diagram generation, offering significant potential for applications in education, technical documentation, and data visualization.&lt;/p&gt;
@@ -74,97 +74,97 @@ Further event details, including page elements such as image galleries, can be a
     
     <item>
       <title>Faster and More Efficient Subject Image Generation for Text-to-Image Diffusion Models</title>
-      <link>http://localhost:1313/publication/conference-paper/faster-and-more-efficient-subject-image-generation-for-text-to-image-diffusion-models/</link>
+      <link>https://dracoxa.github.io/publication/conference-paper/faster-and-more-efficient-subject-image-generation-for-text-to-image-diffusion-models/</link>
       <pubDate>Sun, 06 Oct 2024 15:57:35 +0000</pubDate>
-      <guid>http://localhost:1313/publication/conference-paper/faster-and-more-efficient-subject-image-generation-for-text-to-image-diffusion-models/</guid>
+      <guid>https://dracoxa.github.io/publication/conference-paper/faster-and-more-efficient-subject-image-generation-for-text-to-image-diffusion-models/</guid>
       <description></description>
     </item>
     
     <item>
       <title>SAM-Wav2lip&#43;&#43;: Enhancing Behavioral Realism in Synthetic Agents Through Audio-Driven Speech and Action Refinement</title>
-      <link>http://localhost:1313/publication/conference-paper/sam-wav2lip&#43;&#43;-enhancing-behavioral-realism-in-synthetic-agents-through-audio-driven-speech-and-action-refinement/</link>
+      <link>https://dracoxa.github.io/publication/conference-paper/sam-wav2lip&#43;&#43;-enhancing-behavioral-realism-in-synthetic-agents-through-audio-driven-speech-and-action-refinement/</link>
       <pubDate>Sun, 06 Oct 2024 15:57:35 +0000</pubDate>
-      <guid>http://localhost:1313/publication/conference-paper/sam-wav2lip&#43;&#43;-enhancing-behavioral-realism-in-synthetic-agents-through-audio-driven-speech-and-action-refinement/</guid>
+      <guid>https://dracoxa.github.io/publication/conference-paper/sam-wav2lip&#43;&#43;-enhancing-behavioral-realism-in-synthetic-agents-through-audio-driven-speech-and-action-refinement/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Interpretable and Generalizable Spatiotemporal Predictive Learning with Disentangled Consistency</title>
-      <link>http://localhost:1313/publication/conference-paper/interpretable-and-generalizable-spatiotemporal-predictive-learning-with-disentangled-consistency/</link>
+      <link>https://dracoxa.github.io/publication/conference-paper/interpretable-and-generalizable-spatiotemporal-predictive-learning-with-disentangled-consistency/</link>
       <pubDate>Thu, 22 Aug 2024 15:57:35 +0000</pubDate>
-      <guid>http://localhost:1313/publication/conference-paper/interpretable-and-generalizable-spatiotemporal-predictive-learning-with-disentangled-consistency/</guid>
+      <guid>https://dracoxa.github.io/publication/conference-paper/interpretable-and-generalizable-spatiotemporal-predictive-learning-with-disentangled-consistency/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Boosting the Power of Small Multimodal Reasoning Models to Match Larger Models with Self-Consistency Training</title>
-      <link>http://localhost:1313/publication/conference-paper/boosting-the-power-of-small-multimodal-reasoning-models-to-match-larger-models-with-self-consistency-training/</link>
+      <link>https://dracoxa.github.io/publication/conference-paper/boosting-the-power-of-small-multimodal-reasoning-models-to-match-larger-models-with-self-consistency-training/</link>
       <pubDate>Wed, 03 Jul 2024 02:56:47 +0000</pubDate>
-      <guid>http://localhost:1313/publication/conference-paper/boosting-the-power-of-small-multimodal-reasoning-models-to-match-larger-models-with-self-consistency-training/</guid>
+      <guid>https://dracoxa.github.io/publication/conference-paper/boosting-the-power-of-small-multimodal-reasoning-models-to-match-larger-models-with-self-consistency-training/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Sentence-Level or Token-Level: A Comprehensive Study on Knowledge Distillation</title>
-      <link>http://localhost:1313/publication/conference-paper/sentence-level-or-token-level-a-comprehensive-study-on-knowledge-distillation/</link>
+      <link>https://dracoxa.github.io/publication/conference-paper/sentence-level-or-token-level-a-comprehensive-study-on-knowledge-distillation/</link>
       <pubDate>Tue, 23 Apr 2024 08:29:56 +0000</pubDate>
-      <guid>http://localhost:1313/publication/conference-paper/sentence-level-or-token-level-a-comprehensive-study-on-knowledge-distillation/</guid>
+      <guid>https://dracoxa.github.io/publication/conference-paper/sentence-level-or-token-level-a-comprehensive-study-on-knowledge-distillation/</guid>
       <description></description>
     </item>
     
     <item>
       <title>TED-CS: Textual Enhanced Sensitive Video Detection with Common Sense Knowledge</title>
-      <link>http://localhost:1313/publication/conference-paper/ted-cs-textual-enhanced-sensitive-video-detection-with-common-sense-knowledge/</link>
+      <link>https://dracoxa.github.io/publication/conference-paper/ted-cs-textual-enhanced-sensitive-video-detection-with-common-sense-knowledge/</link>
       <pubDate>Sun, 05 Nov 2023 15:57:35 +0000</pubDate>
-      <guid>http://localhost:1313/publication/conference-paper/ted-cs-textual-enhanced-sensitive-video-detection-with-common-sense-knowledge/</guid>
+      <guid>https://dracoxa.github.io/publication/conference-paper/ted-cs-textual-enhanced-sensitive-video-detection-with-common-sense-knowledge/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Enhancing Human-like Multi-Modal Reasoning: A New Challenging Dataset and Comprehensive Framework</title>
-      <link>http://localhost:1313/publication/conference-paper/enhancing-human-like-multi-modal-reasoning-a-new-challenging-dataset-and-comprehensive-framework/</link>
+      <link>https://dracoxa.github.io/publication/conference-paper/enhancing-human-like-multi-modal-reasoning-a-new-challenging-dataset-and-comprehensive-framework/</link>
       <pubDate>Tue, 25 Jul 2023 15:57:35 +0000</pubDate>
-      <guid>http://localhost:1313/publication/conference-paper/enhancing-human-like-multi-modal-reasoning-a-new-challenging-dataset-and-comprehensive-framework/</guid>
+      <guid>https://dracoxa.github.io/publication/conference-paper/enhancing-human-like-multi-modal-reasoning-a-new-challenging-dataset-and-comprehensive-framework/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Contact</title>
-      <link>http://localhost:1313/contact/</link>
+      <link>https://dracoxa.github.io/contact/</link>
       <pubDate>Mon, 24 Oct 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/contact/</guid>
+      <guid>https://dracoxa.github.io/contact/</guid>
       <description></description>
     </item>
     
     <item>
       <title>People</title>
-      <link>http://localhost:1313/people/</link>
+      <link>https://dracoxa.github.io/people/</link>
       <pubDate>Mon, 24 Oct 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/people/</guid>
+      <guid>https://dracoxa.github.io/people/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Tour</title>
-      <link>http://localhost:1313/tour/</link>
+      <link>https://dracoxa.github.io/tour/</link>
       <pubDate>Mon, 24 Oct 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tour/</guid>
+      <guid>https://dracoxa.github.io/tour/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Feature-guided Multimodal Sentiment Analysis towards Industry 4.0</title>
-      <link>http://localhost:1313/publication/conference-paper/feature-guided-multimodal-sentiment-analysis-towards-industry-4.0/</link>
+      <link>https://dracoxa.github.io/publication/conference-paper/feature-guided-multimodal-sentiment-analysis-towards-industry-4.0/</link>
       <pubDate>Thu, 24 Mar 2022 15:57:35 +0000</pubDate>
-      <guid>http://localhost:1313/publication/conference-paper/feature-guided-multimodal-sentiment-analysis-towards-industry-4.0/</guid>
+      <guid>https://dracoxa.github.io/publication/conference-paper/feature-guided-multimodal-sentiment-analysis-towards-industry-4.0/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>http://localhost:1313/admin/config.yml</link>
+      <link>https://dracoxa.github.io/admin/config.yml</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/admin/config.yml</guid>
+      <guid>https://dracoxa.github.io/admin/config.yml</guid>
       <description></description>
     </item>
     

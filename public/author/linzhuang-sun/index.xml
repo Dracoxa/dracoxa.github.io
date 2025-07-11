@@ -1,22 +1,63 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Linzhuang Sun, | 多模态认知智能实验室</title>
-    <link>http://localhost:1313/author/linzhuang-sun/</link>
-      <atom:link href="http://localhost:1313/author/linzhuang-sun/index.xml" rel="self" type="application/rss+xml" />
-    <description>Linzhuang Sun,</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 06 Oct 2024 15:57:35 +0000</lastBuildDate>
+    <title>Linzhuang Sun | 多模态认知智能实验室</title>
+    <link>https://dracoxa.github.io/author/linzhuang-sun/</link>
+      <atom:link href="https://dracoxa.github.io/author/linzhuang-sun/index.xml" rel="self" type="application/rss+xml" />
+    <description>Linzhuang Sun</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 30 Jul 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu_e368a5d79bca84d.png</url>
-      <title>Linzhuang Sun,</title>
-      <link>http://localhost:1313/author/linzhuang-sun/</link>
+      <url>https://dracoxa.github.io/author/linzhuang-sun/avatar_hu_3898a5a4bbc9383b.jpg</url>
+      <title>Linzhuang Sun</title>
+      <link>https://dracoxa.github.io/author/linzhuang-sun/</link>
     </image>
     
     <item>
-      <title>SAM-Wav2lip&#43;&#43;: Enhancing Behavioral Realism in Synthetic Agents Through Audio-Driven Speech and Action Refinement</title>
-      <link>http://localhost:1313/publication/conference-paper/sam-wav2lip&#43;&#43;-enhancing-behavioral-realism-in-synthetic-agents-through-audio-driven-speech-and-action-refinement/</link>
-      <pubDate>Sun, 06 Oct 2024 15:57:35 +0000</pubDate>
-      <guid>http://localhost:1313/publication/conference-paper/sam-wav2lip&#43;&#43;-enhancing-behavioral-realism-in-synthetic-agents-through-audio-driven-speech-and-action-refinement/</guid>
+      <title>Linzhuang Sun</title>
+      <link>https://dracoxa.github.io/author/linzhuang-sun/</link>
+      <pubDate>Wed, 30 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://dracoxa.github.io/author/linzhuang-sun/</guid>
+      <description>&lt;p&gt;Linzhuang Sun is a PhD candidate with research interests in large language models and multimodal large language models. His work focuses on advancing the development and application of these advanced AI technologies.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>MM-Verify Paper Accepted at ACL 2025</title>
+      <link>https://dracoxa.github.io/event/acl2025/</link>
+      <pubDate>Wed, 30 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://dracoxa.github.io/event/acl2025/</guid>
+      <description>&lt;!-- 
+Slides can be added in a few ways:
+
+- **Create** slides using Wowchemy&#39;s [_Slides_](https://docs.hugoblox.com/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
+- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
+- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://docs.hugoblox.com/writing-markdown-latex/).
+
+Further event details, including page elements such as image galleries, can be added to the body of this page. --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>From Words to Structured Visuals Paper Accepted at CVPR 2025</title>
+      <link>https://dracoxa.github.io/event/cvpr/</link>
+      <pubDate>Wed, 11 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://dracoxa.github.io/event/cvpr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sentence-Level or Token-Level: A Comprehensive Study on Knowledge Distillation</title>
+      <link>https://dracoxa.github.io/publication/conference-paper/sentence-level-or-token-level-a-comprehensive-study-on-knowledge-distillation/</link>
+      <pubDate>Tue, 23 Apr 2024 08:29:56 +0000</pubDate>
+      <guid>https://dracoxa.github.io/publication/conference-paper/sentence-level-or-token-level-a-comprehensive-study-on-knowledge-distillation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>TED-CS: Textual Enhanced Sensitive Video Detection with Common Sense Knowledge</title>
+      <link>https://dracoxa.github.io/publication/conference-paper/ted-cs-textual-enhanced-sensitive-video-detection-with-common-sense-knowledge/</link>
+      <pubDate>Sun, 05 Nov 2023 15:57:35 +0000</pubDate>
+      <guid>https://dracoxa.github.io/publication/conference-paper/ted-cs-textual-enhanced-sensitive-video-detection-with-common-sense-knowledge/</guid>
       <description></description>
     </item>
     

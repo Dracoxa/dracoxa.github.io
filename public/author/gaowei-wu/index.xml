@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Gaowei Wu | 多模态认知智能实验室</title>
-    <link>http://localhost:1313/author/gaowei-wu/</link>
-      <atom:link href="http://localhost:1313/author/gaowei-wu/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://dracoxa.github.io/author/gaowei-wu/</link>
+      <atom:link href="https://dracoxa.github.io/author/gaowei-wu/index.xml" rel="self" type="application/rss+xml" />
     <description>Gaowei Wu</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 11 Jun 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/author/gaowei-wu/avatar_hu_2878f2f9d7dd97c9.png</url>
+      <url>https://dracoxa.github.io/author/gaowei-wu/avatar_hu_2878f2f9d7dd97c9.png</url>
       <title>Gaowei Wu</title>
-      <link>http://localhost:1313/author/gaowei-wu/</link>
+      <link>https://dracoxa.github.io/author/gaowei-wu/</link>
     </image>
     
     <item>
       <title>From Words to Structured Visuals Paper Accepted at CVPR 2025</title>
-      <link>http://localhost:1313/event/cvpr/</link>
+      <link>https://dracoxa.github.io/event/cvpr/</link>
       <pubDate>Wed, 11 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/event/cvpr/</guid>
+      <guid>https://dracoxa.github.io/event/cvpr/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Gaowei Wu</title>
-      <link>http://localhost:1313/author/gaowei-wu/</link>
+      <link>https://dracoxa.github.io/author/gaowei-wu/</link>
       <pubDate>Wed, 11 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/author/gaowei-wu/</guid>
+      <guid>https://dracoxa.github.io/author/gaowei-wu/</guid>
       <description>&lt;p&gt;Gaowei Wu is a Master candidate with research interests in Agent and Retrieval-Augmented Generation (RAG). His work focuses on advancing intelligent agent systems and enhanced generation techniques.&lt;/p&gt;
 &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.&lt;/p&gt;
 </description>

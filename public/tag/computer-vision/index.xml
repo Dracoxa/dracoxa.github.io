@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Computer Vision | 多模态认知智能实验室</title>
-    <link>http://localhost:1313/tag/computer-vision/</link>
-      <atom:link href="http://localhost:1313/tag/computer-vision/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://dracoxa.github.io/tag/computer-vision/</link>
+      <atom:link href="https://dracoxa.github.io/tag/computer-vision/index.xml" rel="self" type="application/rss+xml" />
     <description>Computer Vision</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 11 Jun 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu_e368a5d79bca84d.png</url>
+      <url>https://dracoxa.github.io/media/icon_hu_e368a5d79bca84d.png</url>
       <title>Computer Vision</title>
-      <link>http://localhost:1313/tag/computer-vision/</link>
+      <link>https://dracoxa.github.io/tag/computer-vision/</link>
     </image>
     
     <item>
       <title>From Words to Structured Visuals Paper Accepted at CVPR 2025</title>
-      <link>http://localhost:1313/event/cvpr/</link>
+      <link>https://dracoxa.github.io/event/cvpr/</link>
       <pubDate>Wed, 11 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/event/cvpr/</guid>
+      <guid>https://dracoxa.github.io/event/cvpr/</guid>
       <description></description>
     </item>
     

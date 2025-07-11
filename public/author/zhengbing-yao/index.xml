@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Zhengbing Yao | 多模态认知智能实验室</title>
-    <link>http://localhost:1313/author/zhengbing-yao/</link>
-      <atom:link href="http://localhost:1313/author/zhengbing-yao/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://dracoxa.github.io/author/zhengbing-yao/</link>
+      <atom:link href="https://dracoxa.github.io/author/zhengbing-yao/index.xml" rel="self" type="application/rss+xml" />
     <description>Zhengbing Yao</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 06 Oct 2024 15:57:35 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/author/zhengbing-yao/avatar_hu_74f1f0e4a9ca69dd.png</url>
+      <url>https://dracoxa.github.io/author/zhengbing-yao/avatar_hu_74f1f0e4a9ca69dd.png</url>
       <title>Zhengbing Yao</title>
-      <link>http://localhost:1313/author/zhengbing-yao/</link>
+      <link>https://dracoxa.github.io/author/zhengbing-yao/</link>
     </image>
     
     <item>
       <title>Faster and More Efficient Subject Image Generation for Text-to-Image Diffusion Models</title>
-      <link>http://localhost:1313/publication/conference-paper/faster-and-more-efficient-subject-image-generation-for-text-to-image-diffusion-models/</link>
+      <link>https://dracoxa.github.io/publication/conference-paper/faster-and-more-efficient-subject-image-generation-for-text-to-image-diffusion-models/</link>
       <pubDate>Sun, 06 Oct 2024 15:57:35 +0000</pubDate>
-      <guid>http://localhost:1313/publication/conference-paper/faster-and-more-efficient-subject-image-generation-for-text-to-image-diffusion-models/</guid>
+      <guid>https://dracoxa.github.io/publication/conference-paper/faster-and-more-efficient-subject-image-generation-for-text-to-image-diffusion-models/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Zhengbing Yao</title>
-      <link>http://localhost:1313/author/zhengbing-yao/</link>
+      <link>https://dracoxa.github.io/author/zhengbing-yao/</link>
       <pubDate>Sun, 06 Oct 2024 15:57:35 +0000</pubDate>
-      <guid>http://localhost:1313/author/zhengbing-yao/</guid>
+      <guid>https://dracoxa.github.io/author/zhengbing-yao/</guid>
       <description>&lt;p&gt;Zhengbing Yao is a Master candidate with research interests in multimodal reasoning, machine translation, and AI for Science. His work focuses on advancing the integration of diverse data modalities and applying artificial intelligence to scientific discovery.&lt;/p&gt;
 &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.&lt;/p&gt;
 </description>

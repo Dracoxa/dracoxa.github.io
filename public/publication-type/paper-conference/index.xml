@@ -2,85 +2,85 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Paper-Conference | 多模态认知智能实验室</title>
-    <link>http://localhost:1313/publication-type/paper-conference/</link>
-      <atom:link href="http://localhost:1313/publication-type/paper-conference/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://dracoxa.github.io/publication-type/paper-conference/</link>
+      <atom:link href="https://dracoxa.github.io/publication-type/paper-conference/index.xml" rel="self" type="application/rss+xml" />
     <description>Paper-Conference</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jul 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu_e368a5d79bca84d.png</url>
+      <url>https://dracoxa.github.io/media/icon_hu_e368a5d79bca84d.png</url>
       <title>Paper-Conference</title>
-      <link>http://localhost:1313/publication-type/paper-conference/</link>
+      <link>https://dracoxa.github.io/publication-type/paper-conference/</link>
     </image>
     
     <item>
       <title>From Words to Structured Visuals: A Benchmark and Framework for Text-to-Diagram Generation and Editing</title>
-      <link>http://localhost:1313/publication/conference-paper/from-words-to-structured/</link>
+      <link>https://dracoxa.github.io/publication/conference-paper/from-words-to-structured/</link>
       <pubDate>Tue, 01 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/conference-paper/from-words-to-structured/</guid>
+      <guid>https://dracoxa.github.io/publication/conference-paper/from-words-to-structured/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Faster and More Efficient Subject Image Generation for Text-to-Image Diffusion Models</title>
-      <link>http://localhost:1313/publication/conference-paper/faster-and-more-efficient-subject-image-generation-for-text-to-image-diffusion-models/</link>
+      <link>https://dracoxa.github.io/publication/conference-paper/faster-and-more-efficient-subject-image-generation-for-text-to-image-diffusion-models/</link>
       <pubDate>Sun, 06 Oct 2024 15:57:35 +0000</pubDate>
-      <guid>http://localhost:1313/publication/conference-paper/faster-and-more-efficient-subject-image-generation-for-text-to-image-diffusion-models/</guid>
+      <guid>https://dracoxa.github.io/publication/conference-paper/faster-and-more-efficient-subject-image-generation-for-text-to-image-diffusion-models/</guid>
       <description></description>
     </item>
     
     <item>
       <title>SAM-Wav2lip&#43;&#43;: Enhancing Behavioral Realism in Synthetic Agents Through Audio-Driven Speech and Action Refinement</title>
-      <link>http://localhost:1313/publication/conference-paper/sam-wav2lip&#43;&#43;-enhancing-behavioral-realism-in-synthetic-agents-through-audio-driven-speech-and-action-refinement/</link>
+      <link>https://dracoxa.github.io/publication/conference-paper/sam-wav2lip&#43;&#43;-enhancing-behavioral-realism-in-synthetic-agents-through-audio-driven-speech-and-action-refinement/</link>
       <pubDate>Sun, 06 Oct 2024 15:57:35 +0000</pubDate>
-      <guid>http://localhost:1313/publication/conference-paper/sam-wav2lip&#43;&#43;-enhancing-behavioral-realism-in-synthetic-agents-through-audio-driven-speech-and-action-refinement/</guid>
+      <guid>https://dracoxa.github.io/publication/conference-paper/sam-wav2lip&#43;&#43;-enhancing-behavioral-realism-in-synthetic-agents-through-audio-driven-speech-and-action-refinement/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Interpretable and Generalizable Spatiotemporal Predictive Learning with Disentangled Consistency</title>
-      <link>http://localhost:1313/publication/conference-paper/interpretable-and-generalizable-spatiotemporal-predictive-learning-with-disentangled-consistency/</link>
+      <link>https://dracoxa.github.io/publication/conference-paper/interpretable-and-generalizable-spatiotemporal-predictive-learning-with-disentangled-consistency/</link>
       <pubDate>Thu, 22 Aug 2024 15:57:35 +0000</pubDate>
-      <guid>http://localhost:1313/publication/conference-paper/interpretable-and-generalizable-spatiotemporal-predictive-learning-with-disentangled-consistency/</guid>
+      <guid>https://dracoxa.github.io/publication/conference-paper/interpretable-and-generalizable-spatiotemporal-predictive-learning-with-disentangled-consistency/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Boosting the Power of Small Multimodal Reasoning Models to Match Larger Models with Self-Consistency Training</title>
-      <link>http://localhost:1313/publication/conference-paper/boosting-the-power-of-small-multimodal-reasoning-models-to-match-larger-models-with-self-consistency-training/</link>
+      <link>https://dracoxa.github.io/publication/conference-paper/boosting-the-power-of-small-multimodal-reasoning-models-to-match-larger-models-with-self-consistency-training/</link>
       <pubDate>Wed, 03 Jul 2024 02:56:47 +0000</pubDate>
-      <guid>http://localhost:1313/publication/conference-paper/boosting-the-power-of-small-multimodal-reasoning-models-to-match-larger-models-with-self-consistency-training/</guid>
+      <guid>https://dracoxa.github.io/publication/conference-paper/boosting-the-power-of-small-multimodal-reasoning-models-to-match-larger-models-with-self-consistency-training/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Sentence-Level or Token-Level: A Comprehensive Study on Knowledge Distillation</title>
-      <link>http://localhost:1313/publication/conference-paper/sentence-level-or-token-level-a-comprehensive-study-on-knowledge-distillation/</link>
+      <link>https://dracoxa.github.io/publication/conference-paper/sentence-level-or-token-level-a-comprehensive-study-on-knowledge-distillation/</link>
       <pubDate>Tue, 23 Apr 2024 08:29:56 +0000</pubDate>
-      <guid>http://localhost:1313/publication/conference-paper/sentence-level-or-token-level-a-comprehensive-study-on-knowledge-distillation/</guid>
+      <guid>https://dracoxa.github.io/publication/conference-paper/sentence-level-or-token-level-a-comprehensive-study-on-knowledge-distillation/</guid>
       <description></description>
     </item>
     
     <item>
       <title>TED-CS: Textual Enhanced Sensitive Video Detection with Common Sense Knowledge</title>
-      <link>http://localhost:1313/publication/conference-paper/ted-cs-textual-enhanced-sensitive-video-detection-with-common-sense-knowledge/</link>
+      <link>https://dracoxa.github.io/publication/conference-paper/ted-cs-textual-enhanced-sensitive-video-detection-with-common-sense-knowledge/</link>
       <pubDate>Sun, 05 Nov 2023 15:57:35 +0000</pubDate>
-      <guid>http://localhost:1313/publication/conference-paper/ted-cs-textual-enhanced-sensitive-video-detection-with-common-sense-knowledge/</guid>
+      <guid>https://dracoxa.github.io/publication/conference-paper/ted-cs-textual-enhanced-sensitive-video-detection-with-common-sense-knowledge/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Enhancing Human-like Multi-Modal Reasoning: A New Challenging Dataset and Comprehensive Framework</title>
-      <link>http://localhost:1313/publication/conference-paper/enhancing-human-like-multi-modal-reasoning-a-new-challenging-dataset-and-comprehensive-framework/</link>
+      <link>https://dracoxa.github.io/publication/conference-paper/enhancing-human-like-multi-modal-reasoning-a-new-challenging-dataset-and-comprehensive-framework/</link>
       <pubDate>Tue, 25 Jul 2023 15:57:35 +0000</pubDate>
-      <guid>http://localhost:1313/publication/conference-paper/enhancing-human-like-multi-modal-reasoning-a-new-challenging-dataset-and-comprehensive-framework/</guid>
+      <guid>https://dracoxa.github.io/publication/conference-paper/enhancing-human-like-multi-modal-reasoning-a-new-challenging-dataset-and-comprehensive-framework/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Feature-guided Multimodal Sentiment Analysis towards Industry 4.0</title>
-      <link>http://localhost:1313/publication/conference-paper/feature-guided-multimodal-sentiment-analysis-towards-industry-4.0/</link>
+      <link>https://dracoxa.github.io/publication/conference-paper/feature-guided-multimodal-sentiment-analysis-towards-industry-4.0/</link>
       <pubDate>Thu, 24 Mar 2022 15:57:35 +0000</pubDate>
-      <guid>http://localhost:1313/publication/conference-paper/feature-guided-multimodal-sentiment-analysis-towards-industry-4.0/</guid>
+      <guid>https://dracoxa.github.io/publication/conference-paper/feature-guided-multimodal-sentiment-analysis-towards-industry-4.0/</guid>
       <description></description>
     </item>
     

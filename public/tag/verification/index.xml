@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Verification | 多模态认知智能实验室</title>
-    <link>http://localhost:1313/tag/verification/</link>
-      <atom:link href="http://localhost:1313/tag/verification/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://dracoxa.github.io/tag/verification/</link>
+      <atom:link href="https://dracoxa.github.io/tag/verification/index.xml" rel="self" type="application/rss+xml" />
     <description>Verification</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 30 Jul 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu_e368a5d79bca84d.png</url>
+      <url>https://dracoxa.github.io/media/icon_hu_e368a5d79bca84d.png</url>
       <title>Verification</title>
-      <link>http://localhost:1313/tag/verification/</link>
+      <link>https://dracoxa.github.io/tag/verification/</link>
     </image>
     
     <item>
       <title>MM-Verify Paper Accepted at ACL 2025</title>
-      <link>http://localhost:1313/event/acl2025/</link>
+      <link>https://dracoxa.github.io/event/acl2025/</link>
       <pubDate>Wed, 30 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/event/acl2025/</guid>
+      <guid>https://dracoxa.github.io/event/acl2025/</guid>
       <description>&lt;!-- 
 Slides can be added in a few ways:
 

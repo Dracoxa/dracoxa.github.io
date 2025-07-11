@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Latest News | 多模态认知智能实验室</title>
-    <link>http://localhost:1313/post/</link>
-      <atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://dracoxa.github.io/post/</link>
+      <atom:link href="https://dracoxa.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Latest News</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 27 Feb 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu_e368a5d79bca84d.png</url>
+      <url>https://dracoxa.github.io/media/icon_hu_e368a5d79bca84d.png</url>
       <title>Latest News</title>
-      <link>http://localhost:1313/post/</link>
+      <link>https://dracoxa.github.io/post/</link>
     </image>
     
     <item>
       <title>Congratulations on CVPR 2025 Publication</title>
-      <link>http://localhost:1313/post/congratulations-on-cvpr-2025-publication/</link>
+      <link>https://dracoxa.github.io/post/congratulations-on-cvpr-2025-publication/</link>
       <pubDate>Thu, 27 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/congratulations-on-cvpr-2025-publication/</guid>
+      <guid>https://dracoxa.github.io/post/congratulations-on-cvpr-2025-publication/</guid>
       <description>&lt;p&gt;中国科学院沈阳计算所多模态认知智能团队“From Words to Structured Visuals: A Benchmark and Framework for Text-to-Diagram Generation and Editing”文章被计算机视觉与模式识别会议(CVPR 2025)接受，CVPR是计算机视觉领域最具权威、最高水平、最具影响力的国际顶级学术会议之一，为CCF A类会议。&lt;/p&gt;
 &lt;p&gt;We are excited to celebrate the acceptance of the paper &amp;ldquo;From Words to Structured Visuals: A Benchmark and Framework for Text-to-Diagram Generation and Editing&amp;rdquo; by Jingxuan Wei, Cheng Tan, Qi Chen, Gaowei Wu, Siyuan Li, Zhangyang Gao, Linzhuang Sun, Bihui Yu, and Ruifeng Guo at CVPR 2025!&lt;/p&gt;
 &lt;p&gt;This innovative work  presents a pioneering benchmark and framework for text-to-diagram generation and editing. The paper introduces a comprehensive approach to transforming textual descriptions into structured visual diagrams, addressing challenges in automated diagram creation and iterative editing. By establishing a new benchmark, the authors provide a robust evaluation platform for future research in this interdisciplinary domain of computer vision and natural language processing. Their framework leverages advanced techniques to enable precise, context-aware diagram generation, offering significant potential for applications in education, technical documentation, and data visualization.&lt;/p&gt;
